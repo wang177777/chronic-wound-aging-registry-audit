@@ -1,0 +1,8 @@
+﻿Reference_ID,Authors,Title,Journal,Year,Volume,Pages_or_Article,DOI_or_URL,Use,Verification_Status
+REF-01,Zulman DM et al.,Examining the evidence: a systematic review of the inclusion and analysis of older adults in randomized controlled trials.,J Gen Intern Med,2011,26,783-790,10.1007/s11606-010-1629-x,OLDER_ADULT_TRIAL_INCLUSION,VERIFIED_PRIMARY
+REF-02,van Deudekom FJ et al.,"External validity of randomized controlled trials in older adults, a systematic review.",PLoS One,2017,12,e0174053,10.1371/journal.pone.0174053,GERIATRIC_CONTEXT_REPORTING,VERIFIED_PRIMARY
+REF-03,Zarin DA et al.,Trial reporting in ClinicalTrials.gov—the final rule.,N Engl J Med,2016,375,1998-2004,10.1056/NEJMsr1611785,CLINICALTRIALSGOV_CONTEXT,VERIFIED_PRIMARY
+REF-04,Williamson PR et al.,The COMET Handbook: version 1.0.,Trials,2017,18 Suppl 3,280,10.1186/s13063-017-1978-4,CORE_OUTCOME_SET_METHODS,VERIFIED_PRIMARY
+REF-05,Hallas S et al.,Development of a core outcome set for use in research evaluations of interventions for venous leg ulceration: international eDelphi consensus.,J Tissue Viability,2024,33,324-331,10.1016/j.jtv.2024.02.006,COREVEN,VERIFIED_PRIMARY
+REF-06,Lechner A et al.,Core outcomes for pressure ulcer prevention trials: results of an international consensus study.,Br J Dermatol,2022,187,743-752,10.1111/bjd.21741,OUTPUTS,VERIFIED_PRIMARY
+REF-07,U.S. National Library of Medicine,ClinicalTrials.gov,,2026,,,https://clinicaltrials.gov/,DATA_SOURCE_ACCESSED_2026-07-25,VERIFIED_OFFICIAL

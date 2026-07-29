@@ -1,0 +1,6 @@
+-r requirements.in
+coverage==7.15.2
+mypy==2.3.0
+pytest==9.1.1
+ruff==0.16.0
+types-PyYAML==6.0.12.20260724

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="110" y="38" font-family="Arial" font-size="25" font-weight="bold" fill="#172b4d">Prespecified temporal descriptions</text>
+<text x="110" y="68" font-family="Arial" font-size="14" fill="#42526e">First-post periods; counts and unknowns for each denominator are in the source data.</text>
+<line x1="110" x2="1055" y1="500.00" y2="500.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="505.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">0</text>
+<line x1="110" x2="1055" y1="420.00" y2="420.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="425.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">16</text>
+<line x1="110" x2="1055" y1="340.00" y2="340.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="345.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">32</text>
+<line x1="110" x2="1055" y1="260.00" y2="260.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="265.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">48</text>
+<line x1="110" x2="1055" y1="180.00" y2="180.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="185.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">64</text>
+<line x1="110" x2="1055" y1="100.00" y2="100.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="105.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">80</text>
+<rect x="149.38" y="330.68" width="115.12" height="169.32" fill="#ff8b00"/>
+<text x="206.94" y="325.68" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">33.9</text>
+<rect x="267.50" y="131.82" width="115.12" height="368.18" fill="#6554c0"/>
+<text x="325.06" y="126.82" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">73.6</text>
+<text x="267.50" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">2008-2016</text>
+<rect x="464.38" y="309.70" width="115.12" height="190.30" fill="#ff8b00"/>
+<text x="521.94" y="304.70" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">38.1</text>
+<rect x="582.50" y="145.52" width="115.12" height="354.48" fill="#6554c0"/>
+<text x="640.06" y="140.52" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">70.9</text>
+<text x="582.50" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">2017-2018</text>
+<rect x="779.38" y="301.24" width="115.12" height="198.76" fill="#ff8b00"/>
+<text x="836.94" y="296.24" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">39.8</text>
+<rect x="897.50" y="177.80" width="115.12" height="322.20" fill="#6554c0"/>
+<text x="955.06" y="172.80" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">64.4</text>
+<text x="897.50" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">2019-2025</text>
+<rect x="110" y="566" width="16" height="16" fill="#ff8b00"/>
+<text x="134" y="579" font-family="Arial" font-size="13" fill="#172b4d">Finite structured upper limit</text>
+<rect x="370" y="566" width="16" height="16" fill="#6554c0"/>
+<text x="394" y="579" font-family="Arial" font-size="13" fill="#172b4d">Eligible at 85, reconciled</text>
+<text transform="translate(28 300.0) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="13" fill="#42526e">Percent of records in period</text>
+</svg>

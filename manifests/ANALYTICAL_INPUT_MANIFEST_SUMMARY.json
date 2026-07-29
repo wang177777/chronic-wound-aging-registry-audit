@@ -1,0 +1,12 @@
+{
+  "frozen_sap": 1,
+  "frozen_screening_frame": 1,
+  "locked_step12_master": 1,
+  "manifest_rows": 1221,
+  "manifest_sha256": "9200bd6912ae9b5ed6aa1e4df74cfc4bbf033c9b0a3e07df230be6b48bbc61be",
+  "official_json_analytical_inputs": 1218,
+  "protocol_sap_conditional_inputs": 0,
+  "record_history_guide_in_analytical_manifest": false,
+  "record_history_version_analytical_inputs": 0,
+  "status": "PASS"
+}

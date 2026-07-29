@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="110" y="38" font-family="Arial" font-size="25" font-weight="bold" fill="#172b4d">Age eligibility ladder</text>
+<text x="110" y="68" font-family="Arial" font-size="14" fill="#42526e">YES among 1,206 included records; unknown counts are retained in the source table.</text>
+<line x1="110" x2="1055" y1="500.00" y2="500.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="505.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">0</text>
+<line x1="110" x2="1055" y1="420.00" y2="420.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="425.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">20</text>
+<line x1="110" x2="1055" y1="340.00" y2="340.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="345.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">40</text>
+<line x1="110" x2="1055" y1="260.00" y2="260.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="265.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">60</text>
+<line x1="110" x2="1055" y1="180.00" y2="180.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="185.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">80</text>
+<line x1="110" x2="1055" y1="100.00" y2="100.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="105.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">100</text>
+<rect x="139.53" y="139.74" width="85.59" height="360.26" fill="#0052cc"/>
+<text x="182.33" y="134.74" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">90.1</text>
+<rect x="228.12" y="144.33" width="85.59" height="355.67" fill="#36b37e"/>
+<text x="270.92" y="139.33" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">88.9</text>
+<text x="228.12" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">65</text>
+<rect x="375.78" y="181.77" width="85.59" height="318.23" fill="#0052cc"/>
+<text x="418.58" y="176.77" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">79.6</text>
+<rect x="464.38" y="186.04" width="85.59" height="313.96" fill="#36b37e"/>
+<text x="507.17" y="181.04" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">78.5</text>
+<text x="464.38" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">75</text>
+<rect x="612.03" y="199.84" width="85.59" height="300.16" fill="#0052cc"/>
+<text x="654.83" y="194.84" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">75.0</text>
+<rect x="700.62" y="204.43" width="85.59" height="295.57" fill="#36b37e"/>
+<text x="743.42" y="199.43" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">73.9</text>
+<text x="700.62" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">80</text>
+<rect x="848.28" y="222.17" width="85.59" height="277.83" fill="#0052cc"/>
+<text x="891.08" y="217.17" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">69.5</text>
+<rect x="936.88" y="226.11" width="85.59" height="273.89" fill="#36b37e"/>
+<text x="979.67" y="221.11" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">68.5</text>
+<text x="936.88" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">85</text>
+<rect x="110" y="566" width="16" height="16" fill="#0052cc"/>
+<text x="134" y="579" font-family="Arial" font-size="13" fill="#172b4d">Structured</text>
+<rect x="370" y="566" width="16" height="16" fill="#36b37e"/>
+<text x="394" y="579" font-family="Arial" font-size="13" fill="#172b4d">Reconciled</text>
+<text transform="translate(28 300.0) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="13" fill="#42526e">Percent of frozen included records</text>
+</svg>

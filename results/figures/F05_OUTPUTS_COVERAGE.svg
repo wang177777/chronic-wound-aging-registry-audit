@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="110" y="38" font-family="Arial" font-size="25" font-weight="bold" fill="#172b4d">OUTPUTS domain coverage</text>
+<text x="110" y="68" font-family="Arial" font-size="14" fill="#42526e">Framework-specific denominator n=184; maximum domain unknown=33.</text>
+<line x1="110" x2="1055" y1="500.00" y2="500.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="505.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">0</text>
+<line x1="110" x2="1055" y1="420.00" y2="420.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="425.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">6</text>
+<line x1="110" x2="1055" y1="340.00" y2="340.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="345.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">12</text>
+<line x1="110" x2="1055" y1="260.00" y2="260.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="265.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">18</text>
+<line x1="110" x2="1055" y1="180.00" y2="180.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="185.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">24</text>
+<line x1="110" x2="1055" y1="100.00" y2="100.00" stroke="#dfe1e6" stroke-width="1"/>
+<text x="98" y="105.00" text-anchor="end" font-family="Arial" font-size="12" fill="#5e6c84">30</text>
+<rect x="129.69" y="253.62" width="56.06" height="246.38" fill="#0052cc"/>
+<text x="157.72" y="248.62" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">18.5</text>
+<rect x="188.75" y="210.14" width="56.06" height="289.86" fill="#36b37e"/>
+<text x="216.78" y="205.14" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">21.7</text>
+<text x="188.75" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">PI occurrence</text>
+<rect x="287.19" y="478.26" width="56.06" height="21.74" fill="#0052cc"/>
+<text x="315.22" y="473.26" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">1.6</text>
+<rect x="346.25" y="471.01" width="56.06" height="28.99" fill="#36b37e"/>
+<text x="374.28" y="466.01" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">2.2</text>
+<text x="346.25" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">Precursors</text>
+<rect x="444.69" y="384.06" width="56.06" height="115.94" fill="#0052cc"/>
+<text x="472.72" y="379.06" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">8.7</text>
+<rect x="503.75" y="289.86" width="56.06" height="210.14" fill="#36b37e"/>
+<text x="531.78" y="284.86" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">15.8</text>
+<text x="503.75" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">Mobility</text>
+<rect x="602.19" y="456.52" width="56.06" height="43.48" fill="#0052cc"/>
+<text x="630.22" y="451.52" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">3.3</text>
+<rect x="661.25" y="333.33" width="56.06" height="166.67" fill="#36b37e"/>
+<text x="689.28" y="328.33" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">12.5</text>
+<text x="661.25" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">Comfort</text>
+<rect x="759.69" y="492.75" width="56.06" height="7.25" fill="#0052cc"/>
+<text x="787.72" y="487.75" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">0.5</text>
+<rect x="818.75" y="471.01" width="56.06" height="28.99" fill="#36b37e"/>
+<text x="846.78" y="466.01" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">2.2</text>
+<text x="818.75" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">Adherence</text>
+<rect x="917.19" y="420.29" width="56.06" height="79.71" fill="#0052cc"/>
+<text x="945.22" y="415.29" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">6.0</text>
+<rect x="976.25" y="340.58" width="56.06" height="159.42" fill="#36b37e"/>
+<text x="1004.28" y="335.58" text-anchor="middle" font-family="Arial" font-size="11" fill="#172b4d">12.0</text>
+<text x="976.25" y="528" text-anchor="middle" font-family="Arial" font-size="12" fill="#172b4d">Safety</text>
+<rect x="110" y="566" width="16" height="16" fill="#0052cc"/>
+<text x="134" y="579" font-family="Arial" font-size="13" fill="#172b4d">Primary outcome</text>
+<rect x="370" y="566" width="16" height="16" fill="#36b37e"/>
+<text x="394" y="579" font-family="Arial" font-size="13" fill="#172b4d">Any planned outcome</text>
+<text transform="translate(28 300.0) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="13" fill="#42526e">Percent of applicable records</text>
+</svg>

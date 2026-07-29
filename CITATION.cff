@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated manuscript."
+title: "Chronic-wound aging registry audit: analysis and reproducibility code"
+version: "1.0.1"
+date-released: "2026-07-28"
+license: MIT
+authors:
+  - family-names: Wang
+    given-names: Guoyong
+  - family-names: Zhang
+    given-names: Kaijun
+  - family-names: Jiang
+    given-names: Jiyue
+  - family-names: Wang
+    given-names: Chaonan
+  - family-names: Wang
+    given-names: Weixin
+  - family-names: Bi
+    given-names: Hui
+  - family-names: Liang
+    given-names: Haojun
+  - family-names: Qi
+    given-names: Zuoliang
+  - family-names: Huang
+    given-names: Ying
+  - family-names: Li
+    given-names: Yu
+  - family-names: Yang
+    given-names: Xiaonan
+repository-code: "https://github.com/wang177777/chronic-wound-aging-registry-audit"
+url: "https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.0.1"
