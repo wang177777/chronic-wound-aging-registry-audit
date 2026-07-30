@@ -1,0 +1,13 @@
+{
+  "release_version": "v1.2.1",
+  "current_release_status": "INDEPENDENT_VALIDATION_PASS",
+  "included_nct_count": 1218,
+  "full_json_hash_coverage": "1218/1218",
+  "deterministic_scientific_outputs": "36/36",
+  "denominator_rows": "596/596",
+  "age_checks": "17/17",
+  "conclusion_anchors": "7/7",
+  "independent_human_cleanroom_decision": "PASS",
+  "independent_validation_completed": true,
+  "manuscript_results_finalized": true
+}

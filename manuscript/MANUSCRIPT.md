@@ -1,6 +1,6 @@
-# Age accessibility, geriatric-context specification, and planned outcome coverage in registered chronic-wound trials: a finite-population registry audit
+# Age eligibility, geriatric-context reporting, and registered outcome-domain coverage in venous leg ulcer and pressure injury trials
 
-Guoyong Wang<sup>1</sup>, Kaijun Zhang<sup>2</sup>, Jiyue Jiang<sup>3</sup>, Chaonan Wang<sup>1</sup>, Weixin Wang<sup>1</sup>, Hui Bi<sup>4</sup>, Haojun Liang<sup>5</sup>, Zuoliang Qi<sup>5</sup>, Ying Huang<sup>2,*</sup>, Yu Li<sup>3,*</sup>, Xiaonan Yang<sup>1,*</sup>
+Guoyong Wang<sup>1</sup>, Kaijun Zhang<sup>2</sup>, Jiyue Jiang<sup>3</sup>, Weixin Wang<sup>1</sup>, Chaonan Wang<sup>1</sup>, Hui Bi<sup>4</sup>, Haojun Liang<sup>5</sup>, Zuoliang Qi<sup>5</sup>, Ying Huang<sup>2,*</sup>, Yu Li<sup>3,6,*</sup>, Xiaonan Yang<sup>1,*</sup>
 
 ## Affiliations
 
@@ -9,171 +9,265 @@ Guoyong Wang<sup>1</sup>, Kaijun Zhang<sup>2</sup>, Jiyue Jiang<sup>3</sup>, Cha
 3. Department of Computer Science and Engineering, The Chinese University of Hong Kong, Sha Tin, New Territories, Hong Kong SAR, China.
 4. Department of Internal Medicine, Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100144, China.
 5. Department of Comprehensive Plastic Surgery, Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100144, China.
+6. The CUHK Shenzhen Research Institute, Hi-Tech Park, Nanshan, Shenzhen 518057, China.
 
-*Correspondence:
-Ying Huang (yhuang815@163.com), Department of Gastroenterology, Children’s Hospital of Fudan University, National Children’s Medical Center, No. 399 Wanyuan Road, Minhang District, Shanghai 201102, People’s Republic of China.
-
-Yu Li (liyu@cse.cuhk.edu.hk), Department of Computer Science and Engineering, The Chinese University of Hong Kong, Sha Tin, New Territories, Hong Kong SAR, China; and The CUHK Shenzhen Research Institute, Hi-Tech Park, Nanshan, Shenzhen 518057, China.
-
-Xiaonan Yang (yxnan@aliyun.com), Department of Hemangioma and Vascular Malformation, Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100144, China. Tel: +86 18810601889; Fax: +86 10 53968149.
+*Correspondence: Ying Huang (yhuang815@163.com); Yu Li (liyu@cse.cuhk.edu.hk); Xiaonan Yang (yxnan@aliyun.com).
 
 ## Structured abstract
 
 ### Background
 
-Older adults are frequently underrepresented or insufficiently characterized in clinical trials, and registry eligibility does not establish who was actually enrolled.[1,2] We evaluated whether registered chronic-wound trials permitted older adults to enroll, publicly specified geriatric context, and planned condition-specific core outcomes.
+Formal age eligibility does not establish actual enrollment or reveal whether public trial records describe geriatric complexity and patient-important measurement. We jointly audited these registry-level dimensions in venous leg ulcer and pressure-injury trials.
 
 ### Methods
 
-We conducted a finite-population descriptive audit of 1,218 adjudicated ClinicalTrials.gov records with 1,218 hash-verified complete official JSON records.[3,7] Structured and human-reconciled age measures were kept separate. The primary geriatric composite comprised eight clinical domains; proxy-consent pathways were coded and reported separately. Planned outcome coverage was evaluated using CoreVen only for venous-leg-ulcer active-treatment trials and OUTPUTs only for pressure-injury prevention trials.[4–6] Missing states were preserved. No sampling inference, regression, causal modelling, or imputation was used.
+We conducted a cross-sectional registry audit of all 1,218 eligible records in a frozen ClinicalTrials.gov cohort first posted in 2008–2025, using a 25 July 2026 snapshot and hash-verified complete JSON. Full-cohort, evaluable-denominator, lower-bound, upper-bound and indeterminate proportions were reported. Registered outcome-domain coverage was assessed with CoreVen only in venous-leg-ulcer active-treatment trials and OUTPUTs only in pressure-injury-prevention trials, with registration-timing and framework-publication-date sensitivities.
 
 ### Results
 
-A finite structured upper-age limit was present in 456 of 1,218 records (37.44%; unknown 39). Reconciled eligibility at age 85 years was present in 834 of 1,218 (68.47%; unknown 38). At least one of the eight primary geriatric domains was publicly specified in 575 of 1,218 (47.21%; unknown 319); a proxy-consent pathway was specified in 29 of 1,218 (2.38%; unknown 140). Complete any-planned CoreVen coverage occurred in 2 of 304 applicable trials (0.66%; unknown 61), and complete any-planned OUTPUTs coverage occurred in 0 of 184 applicable trials (0.00%; unknown 33).
+In the human-confirmed age-corrected analysis, reconciled eligibility at age 85 years was documented for 858/1,218 records (70.44% of all records; 72.04% of 1,191 evaluable; indeterminate, 27/1,218 [2.22%]). At least one of eight geriatric-context domains was publicly documented in 575/1,218 (47.21%; 63.96% of 899 evaluable; indeterminate, 319/1,218 [26.19%]). Formal accessibility at age 85 and documentation of at least one geriatric-context domain co-occurred in 392/1,218 records (32.18%). Complete any-registered CoreVen coverage occurred in 2/304 records (0.66%; indeterminate, 62/304), and complete OUTPUTs coverage occurred in 0/184 (0.00%; indeterminate, 32/184). Among prospectively or same-day registered records, complete coverage was 2/165 for CoreVen and 0/104 for OUTPUTs. In post-final-COS strata, it was 1/39 and 0/64, respectively.
 
 ### Conclusions
 
-Age accessibility, public geriatric-context specification, and condition-specific planned outcome coverage were distinct registry-level dimensions. Their separate reporting identifies registration and trial-planning gaps without estimating treatment effects or actual enrollment of older adults.
+Age eligibility, public geriatric-context documentation and registered outcome-domain coverage were incompletely overlapping features. The findings identify limits in current registry transparency; they do not establish actual recruitment, participant representation, prospective outcome specification or adoption of a core outcome set.
 
 ## Introduction
 
-Older adults remain underrepresented in randomized trials, and even trials involving older populations often incompletely report frailty, function, cognition, multimorbidity, and other geriatric characteristics.[1,2] Age eligibility criteria, public geriatric-context information, and planned outcomes therefore answer different questions about older-adult relevance. Permission to enroll does not establish who was actually enrolled, and a public registry can omit clinically relevant context that was considered outside the record.
+Older adults remain incompletely represented in many trials.[1,2] Restrictive eligibility criteria can narrow the generalizability of trial evidence.[3] Participation also depends on practical access, consent processes, comorbidity, transport, and tolerable study burden.[4] Empirical analyses of cancer trials and regulatory submissions show age-related gaps between study participants and populations likely to use interventions.[5,6] Reviews of participation barriers further indicate that enrollment systems must be designed around older adults’ needs.[7] A permissive chronological-age criterion alone does not resolve these gaps. Eligibility establishes who may enter a study under the protocol; it does not show who was approached, enrolled, retained, or represented in the final analysis. Assessing older-adult applicability therefore requires formal access to be distinguished from the clinical complexity that shapes participation and outcome relevance.
 
-ClinicalTrials.gov provides a structured public record of trial design, eligibility, and planned outcomes, but registry information is not equivalent to participant-level clinical data or published trial results.[3,7] Core outcome sets define the minimum outcomes that should be measured and reported in trials of a given condition and can improve comparability and reduce selective outcome reporting.[4] CoreVen recommends five outcome domains—healing, pain, quality of life, resource use, and adverse events—for trials of interventions treating venous leg ulcers.[5] OUTPUTs defines six core outcomes for pressure-injury prevention trials: pressure-injury occurrence, precursor signs or symptoms, mobility, acceptability or comfort, adherence or compliance, and adverse events or safety.[6]
+Frailty is multidimensional and can be represented by a clinical phenotype.[8,9] Mobility, cognition, nutrition, and other geriatric syndromes interact across conventional disease boundaries.[10] Multimorbidity is common in later life.[11] It also complicates the applicability of single-disease guidance and trial evidence.[12,13] Polypharmacy adds treatment burden and safety concerns that may not be visible in a diagnosis-only description.[14] A deficit-accumulation approach provides a complementary model of frailty rather than an interchangeable label.[15] In a public registry, these dimensions can only be assessed as documented design context. Their absence from a record cannot be converted into clinical absence, and a registry-derived geriatric-context measure cannot be treated as a measured patient phenotype or a validated frailty instrument.
 
-We used a locked, independently validated registry dataset to describe age accessibility, public specification of eight primary geriatric domains, separately reported proxy-consent pathways, and planned CoreVen or OUTPUTs coverage in their approved applicable populations. The study was a registry audit, not a treatment-effect, causal, enrollment, age-discrimination, or global-representativeness study.
+Chronic wounds impose substantial clinical and functional burdens.[16,17] Venous leg ulcers are particularly relevant to older populations.[18] Their health-system and humanistic burdens are also substantial.[19,20] Pressure injuries intersect with multimorbidity and remain common among hospitalized adults.[21,22] Trial applicability in this area is consequently multidimensional. An older person may be age-eligible while a protocol says little about mobility, cognition, nutrition, life expectancy, care setting, or medication burden. Conversely, a study may specify some geriatric context but select registered outcome entries that do not cover domains considered important by patients, clinicians, and other stakeholders.
+
+ClinicalTrials.gov provides structured public information on study design and results reporting under a defined regulatory framework.[23,24] Incomplete posting and selective outcome reporting constrain the public evidence base.[25,26] Discrepancies between registrations and publications create an additional source of uncertainty.[27,28] Registry-based meta-research therefore requires explicit attention to record versions, field definitions, missingness, and denominator construction.[29] A registration record is valuable because it exposes entered design information at scale, but it remains a public design record rather than participant-level data or a substitute for a clinical study report.
+
+Core outcome sets define minimum outcomes for consistent measurement and reporting.[30,31] Established standards guide their development and reporting.[32,33] CoreVen was developed through a protocol and a systematic outcome review for venous leg ulcer treatment trials.[34,35] International consensus then identified patient-important domains including healing, pain, and quality of life.[36] These domains align with separate evidence on the lived importance of pain and quality of life in venous leg ulcer care.[37] The OUTPUTs programme was developed specifically for pressure-ulcer prevention trials through a protocol and an outcome-classification review.[38,39] International consensus established six core domains, and subsequent commentary emphasized their value for standardizing prevention research.[40,41] The two frameworks address different clinical purposes and populations and must not be pooled. We therefore examined age accessibility, public specification of eight primary geriatric domains, separately reported proxy-consent pathways, and registered CoreVen or OUTPUTs domain coverage in their prespecified condition-specific applicable trial groups. Our prespecified premise was that age accessibility, geriatric-context specification, and condition-specific registered outcome-domain coverage are related but non-interchangeable dimensions of registry-level older-adult applicability.
 
 ## Methods
 
-### Design and frozen population
+### Study design and review amendment
 
-This was a finite-population descriptive audit of 1,218 adjudicated registered interventional studies in ClinicalTrials.gov.[3,7] Complete official JSON with matching stored hashes was available for 1,218 of 1,218 records. The corrected frozen coding master contained 18,270 age-field rows, 10,962 geriatric-domain rows, 1,218 framework rows, and 7,633 planned-outcome rows, with no unresolved final values.
+This was a cross-sectional registry audit of every eligible record in a frozen cohort; the trial-registration record was the primary unit of analysis. Counts, denominators, proportions, unknown counts, medians, interquartile ranges and ranges describe the complete frozen cohort and do not estimate a sampled superpopulation. Reporting was informed by STROBE and partially cross-walked to RECORD.[42,43] Following an internal methodological review, a dated post-protocol amendment specified the additional cohort-flow, missingness-bound, registration-timing, core-outcome-set publication-time, joint-distribution, age-category and reliability analyses before execution. These analyses were not part of the original prespecified protocol.
 
-Registration periods were prespecified from the first-posted year as 2008–2016, 2017–2018, and 2019–2025. Descriptive earlier-versus-later contrasts compared 2008–2016 with 2019–2025; the 2017–2018 period was retained as a separately reported middle stratum.
+### Data source, retrieval and candidate construction
 
-### Age accessibility
+We used the AACT database snapshot and the ClinicalTrials.gov version 2 API.[44–46] The governed acquisition closed on 25 July 2026. Frozen API condition and term queries and literal case-folded AACT searches covered venous-leg-ulcer and pressure-injury terminology across titles, conditions, keywords, summaries, descriptions, eligibility criteria and browse conditions. Pagination used 1,000-record pages until no next-page token remained. Non-additive query paths yielded 5,693 AACT exact hits, 8,496 AACT broad hits, 10,765 API condition hits and 72,328 API term hits. Deduplication by NCT identifier produced 34,972 candidates (15,438 exact-retrieved and 19,534 broad-only) before eligibility review.
 
-Eligibility was evaluated at 65, 75, 80, and 85 years. Structured values came from frozen registry fields; reconciled values retained governed full-JSON human-confirmed coding. The scales were not merged. Unknown and expert-decision states remained distinct. These measures indicate registry-defined accessibility, not actual participant ages or enrollment.
+### Eligibility, scope and cohort correction
 
-### Geriatric-context specification
+Eligible records were interventional studies of venous-leg-ulcer (VLU) active treatment or recurrence prevention, pressure-injury prevention or treatment, or governed mixed-wound studies with a separable target component. Other wound types were outside scope unless this separability rule was met. The prespecified 120-record reliability sample was independently screened by two named reviewers and adjudicated by the principal investigator when their decisions differed. The remaining 34,852 candidate records were separately assessed by the same two named reviewers; the 120 reliability records were not screened again. Disagreements and unresolved records entered principal-investigator adjudication. Thus, all 34,972 candidates received two named human eligibility assessments, and only final human-confirmed or adjudicated decisions entered the cohort.
 
-The primary geriatric composite comprised eight clinical domains: frailty; mobility, activities of daily living, or function; cognition or decision capacity; nutrition; multimorbidity; life expectancy or advanced illness; care setting or caregiver involvement; and polypharmacy or medication burden. Proxy-consent pathways were coded and reported separately and were not included in the primary eight-domain composite. Present, not-publicly-specified, and expert-decision states remained separate. These are registry-level public specifications, not patient diagnoses, measured prevalence, or a validated frailty score.
+A reviewer blinded to the original exclusion decision and previous rationale independently reassessed a fixed sample of 500 excluded records. The audit identified one false negative and triggered a high-sensitivity review of all 33,658 records excluded from the 34,852-record full-screening component. The 108 final exclusions from the separately adjudicated 120-record reliability sample were not re-entered into that sweep. Before correction, the candidate frame comprised 1,206 included and 33,766 excluded records (108 reliability-sample exclusions plus 33,658 full-screening-component exclusions). Expert review and principal-investigator adjudication of the targeted sweep added 12 unique eligible records, leaving 33,646 exclusions in the full-screening component. The corrected cohort therefore contains 1,218 included and 33,754 excluded records (108 + 33,646), with no duplicate NCT identifiers (Figure 1; Supplementary Table S1).
 
-### Planned outcome coverage
+### Frozen record version and registration timing
 
-Every one of the 7,633 rows represented a protocol-planned outcome, not a reported clinical result. CoreVen was applied only to venous-leg-ulcer active-treatment trials and OUTPUTs only to pressure-injury prevention trials.[5,6] Pressure-injury treatment, venous-leg-ulcer recurrence prevention, and mixed-wound studies remained within their approved descriptive boundaries. Primary-only and any-planned windows were not mixed.
+Every included NCT identifier was bound to a complete official JSON file and SHA-256 value; coverage was 1,218/1,218. The signed original master contained 18,270 age rows, 10,962 geriatric-domain rows, 1,218 framework rows and 7,633 distinct registered outcome rows. The append-only age-correction layer preserved the 18,270-row age layer. Chaonan Wang and Weixin Wang independently confirmed all 431 affected records, and Guoyong Wang approved 431/431 final corrections; no records remained unresolved. The present analysis represents the frozen current record at acquisition. Because a complete official version-level history corpus was not frozen, historical outcome-version reconstruction was not performed. Accordingly, a current outcome field was described as registered in the frozen record, not necessarily prospectively specified.
 
-### Descriptive analysis and validation
+Registration was classified as prospective or same-day when first submission did not follow study start, retrospective when it did, and unknown when either date was unavailable. Framework-date analyses used the earliest verified electronic publication date: 4 March 2024 for final CoreVen and 9 August 2022 for final OUTPUTs. The latter differs from the 1 November 2022 issue/online metadata on publisher and Crossref records; the earliest PubMed electronic date was frozen, and the discrepancy was retained. Records were classified as pre-final COS or as posted at least 0, 6 or 12 months after publication. These descriptive strata do not establish exposure to, awareness of or adoption of the framework.
 
-We reported observations, denominators, proportions, unknown counts, numeric age summaries, and prespecified absolute percentage-point differences. Missing, unknown, not-applicable, not-publicly-specified, and expert-decision states were not collapsed. No *P* values, sampling confidence intervals, regression, prediction, causal model, multiple imputation, composite geriatric score, or result-driven rule change was used.
+### Age accessibility and posted age-category results
 
-The corrected results passed fresh independent machine validation, item-level review by named experts, and principal-investigator interpretation authorization.
+Structured minimum and maximum ages and the complete eligibility text were extracted from frozen JSON. Sub-year units were converted to years; strict lower and upper inequalities were preserved; cohort-specific inclusion and exclusion clauses were interpreted in section context; a lower-bound exclusion was not treated as an upper limit; and multiple explicitly enrolled target cohorts were evaluated over their union. Exact source evidence was required for free-text rules such as “any age” or adult-only eligibility. Accessibility at ages 65, 75, 80 and 85 years was reported on separate structured and reconciled scales. A finite structured upper-age limit was also reported. “No explicit structured upper-age limit” denotes only the registry field and does not establish recruitment. Two 130-year maximum-age entries were source-verified as Years and retained; excluding them affected only the observed maximum range endpoint.
+
+For records with posted results, the full results module was searched for age-category groups. Categories were retained only when their age boundaries were interpretable. This exploratory registry summary does not reconstruct participant-level age distributions.
+
+### Geriatric-context documentation
+
+Eight clinical domains were assessed: frailty; mobility, activities of daily living or function; cognition or decision capacity; nutrition or malnutrition; multimorbidity burden; life expectancy or advanced illness; care setting or caregiver involvement; and polypharmacy or medication burden. Proxy consent was a ninth, separately reported access domain. Each domain was classified as PRESENT, NOT_PUBLICLY_SPECIFIED or INDETERMINATE_AFTER_REVIEW from the frozen public record. PRESENT could reflect an inclusion criterion, exclusion criterion, support or accommodation, stratification factor, measurement, intervention component or contextual description; it was not automatically beneficial or restrictive. Directionality was additionally classified across 788 source-linked PRESENT rows as exclusion or restriction, inclusion or accommodation, baseline measurement or stratification, consent or proxy support, intervention or care adaptation, contextual description, multiple functions, or indeterminate direction. Two named reviewers independently coded these rows, followed by geriatric-domain expert review and principal-investigator adjudication. Only the final human-confirmed or adjudicated labels entered analysis. Agreement was calculated from the reviewers’ pre-adjudication labels. Reviewer confirmations, adjudication records, and reproducibility materials are retained in the study archive. No geriatric score was calculated.
+
+### Registered outcome-domain coverage
+
+Each distinct current-snapshot primary or secondary outcome entry retained its level, measure, description, time frame, exact JSON Pointer and source hash. “Primary-registered” denotes mapped primary outcome fields in the frozen current record; “any-registered” denotes primary or secondary fields. Neither label establishes prospective planning, measurement, reporting or clinical effect.
+
+CoreVen was applied only to 304 VLU active-treatment records and comprised healing, pain, quality of life, resource use and adverse events. OUTPUTs was applied only to 184 pressure-injury-prevention records and comprised pressure-injury occurrence, precursor signs or symptoms, mobility, acceptability or comfort, adherence or compliance, and adverse events or safety. Complete coverage required every applicable framework domain within the stated window. VLU recurrence, pressure-injury treatment and mixed-wound studies remained descriptive and were not forced into either framework.
+
+### Missingness, bounds and joint analyses
+
+Publication-facing INDETERMINATE_AFTER_REVIEW preserved underlying unknown, unclear and expert-decision states without reassignment. For every principal metric we calculated: (1) confirmed full-cohort percentage; (2) confirmed evaluable-denominator percentage; (3) lower bound, treating indeterminate records as not present; (4) upper bound, treating all indeterminate records as present; and (5) indeterminate percentage. NOT_APPLICABLE was retained separately.
+
+Trial-level joint tables cross-classified reconciled age-85 accessibility, any public documentation across the eight geriatric domains, and framework-specific any-registered coverage. CoreVen and OUTPUTs denominators remained separate. No composite older-adult-applicability score was constructed.
+
+### Human review and reliability
+
+The signed eligibility, geriatric-directionality, framework-applicability and outcome-domain decisions were confirmed under named human governance. Chaonan Wang and Weixin Wang independently reviewed the 431-record age-correction layer against frozen source evidence, and Guoyong Wang approved all 431 final corrections. Only final human-confirmed and principal-investigator-approved values entered the analysis. Deterministic scripts were used for data processing, statistical calculation, figure generation, reproducibility checks and quality control.
+
+The prespecified formal reliability analysis used 120 records independently assessed by two human reviewers, with agreement calculated from their pre-adjudication labels. Supplementary human agreement audits were conducted for 788 geriatric-directionality rows and a fixed-seed sample of 100 registered outcome rows (50 CoreVen and 50 OUTPUTs). The latter underwent independent two-reviewer mapping, outcome-domain expert review and principal-investigator adjudication. Agreement was calculated from the reviewers’ pre-adjudication labels. Reviewer confirmations, adjudication records, and reproducibility materials are retained in the study archive.
+
+### Statistical analysis and validation
+
+Analyses used observations, denominators, proportions, unknown counts, medians, interquartile ranges, ranges and absolute percentage-point differences. We did not calculate P values, sampling confidence intervals, regression models, causal estimates, multiple imputation or unplanned subgroups. Following human confirmation, the complete age-corrected analysis was rerun from zero in the governed project and a fresh detached clean worktree. Both runs verified 1,221/1,221 explicit inputs and 1,218/1,218 frozen JSON records, passed 23/23 primary checks and produced 36/36 byte-identical deterministic scientific outputs. Independent checks reconciled 596/596 denominator rows, 17/17 age checks and 7/7 conclusion anchors. Weiwei Chen, who did not implement the primary rerun, reviewed the complete evidence package and issued an overall PASS decision.
 
 ## Results
 
-### Population and input integrity
+### Cohort ascertainment and characteristics
 
-All 1,218 included records were interventional studies. Randomization was recorded for 809 of 1,218 (66.42%; unknown 2), and device studies accounted for 595 of 1,218 (48.85%).
+The 34,972-record candidate frame was fully adjudicated. Twelve audit-driven additions produced 1,218 included records, with no duplicate NCT identifiers and complete JSON/hash coverage (Figure 1; Supplementary Table S1). The cohort comprised 304 VLU active-treatment, 25 VLU recurrence-prevention, 184 pressure-injury-prevention, 517 pressure-injury-treatment, 186 explicit mixed-wound and 2 other governed mixed-wound records. Registration was prospective or same-day for 698/1,218 (57.31%), retrospective for 519/1,218 (42.61%) and unknown for 1/1,218 (0.08%). Randomization was recorded for 809/1,218 (66.42%; unknown, 2), and 595/1,218 (48.85%) were device studies (Table 1).
 
-Registration-period counts were 440 of 1,218 records (36.12%) in 2008–2016, 134 of 1,218 (11.00%) in 2017–2018, and 644 of 1,218 (52.87%) in 2019–2025.
+### Age eligibility
 
-### Age accessibility
+In the human-confirmed age-corrected analysis, structured accessibility was 1,098/1,218 at age 65 years (90.15%; indeterminate, 39), 970/1,218 at age 75 (79.64%; 39), 915/1,218 at age 80 (75.12%; 39) and 847/1,218 at age 85 (69.54%; 39). Reconciled values were 1,103/1,218 (90.56%; indeterminate, 27), 978/1,218 (80.30%; 27), 925/1,218 (75.94%; 27) and 858/1,218 (70.44%; 27), respectively (Figure 2; Supplementary Tables S3 and S4).
 
-Structured accessibility was 1,097 of 1,218 at age 65 (90.07%; unknown 42); 969 of 1,218 at age 75 (79.56%; unknown 42); 914 of 1,218 at age 80 (75.04%; unknown 42); and 846 of 1,218 at age 85 (69.46%; unknown 42).
+A finite structured upper-age limit appeared in 456/1,218 records (37.44% of all records; 38.64% of 1,180 evaluable; indeterminate, 38/1,218 [3.12%]); 724 had no explicit structured upper limit. Structured and reconciled age fields conflicted in 32 records. Among observed numeric values, minimum age was a median of 18 years (IQR, 18–18; range, 0–75; observed, 1,179), and maximum age was 75 years (IQR, 65–85; range, 18–130; observed, 456). Excluding the two verified 130-year entries changed only the upper range endpoint.
 
-Reconciled accessibility was 1,083 of 1,218 at age 65 (88.92%; unknown 38); 956 of 1,218 at age 75 (78.49%; unknown 38); 900 of 1,218 at age 80 (73.89%; unknown 38); and 834 of 1,218 at age 85 (68.47%; unknown 38).
+### Geriatric-context documentation and joint distribution
 
-A finite structured upper-age limit occurred in 456 of 1,218 records (37.44%; unknown 39), while 723 of 1,218 had no explicit structured upper-age limit (59.36%; unknown 39). Structured and reconciled age fields conflicted in 46 of 1,218 (3.78%; unknown 3).
+At least one of eight clinical geriatric-context domains was publicly documented in 575/1,218 records (47.21% of all; 63.96% of 899 evaluable; indeterminate, 319/1,218 [26.19%]). Mobility/function was documented in 291 (23.89%; indeterminate, 164), cognition/capacity in 157 (12.89%; 136), life expectancy/advanced illness in 135 (11.08%; 22), nutrition in 105 (8.62%; 216), care setting/caregiver involvement in 52 (4.27%; 157), frailty in 11 (0.90%; 32), multimorbidity burden in 7 (0.57%; 64), and polypharmacy/medication burden in 1 (0.08%; 17). Proxy-consent pathways were separately documented in 29/1,218 (2.38% of all; 2.69% of 1,078 evaluable; indeterminate, 140/1,218 [11.49%]) (Figure 3; Supplementary Tables S5 and S6).
 
-Among records with observed numeric values, minimum age was median 18.0 years (interquartile range 18.0–18.0; range 0.0–75.0; observed 1,176 of 1,218). Maximum age was median 75.0 years (interquartile range 65.0–85.0; range 18.0–130.0; observed 456 of 1,218).
+Across 788 source-linked PRESENT rows, final human-confirmed direction labels identified 247/788 exclusion-or-restriction statements (31.35%), 118/788 inclusion-or-accommodation statements (14.97%), 97/788 baseline-measurement-or-stratification statements (12.31%), 29/788 consent-or-proxy-support statements (3.68%), 90/788 intervention-or-care-adaptation statements (11.42%), 106/788 contextual descriptions (13.45%), 2/788 multiple-function statements (0.25%) and 99/788 indeterminate directions (12.56%). These source-row categories describe the operational function of public text and do not establish participant-level exclusion, support or clinical prevalence (Supplementary Table S19).
 
-### Geriatric-context specification
+In the human-confirmed age-corrected analysis, the age-85 and geriatric-context dimensions overlapped incompletely: 392/1,218 records (32.18%) were both age-85 accessible and had at least one publicly documented geriatric domain; 240 (19.70%) were accessible with no such public documentation, and 226 (18.56%) were accessible but geriatric-context status remained indeterminate (Supplementary Figure S1; Supplementary Table S12). These cells describe record states and not participant characteristics.
 
-At least one of the eight primary geriatric domains was publicly specified in 575 of 1,218 records (47.21%; unknown 319). Separately, a proxy-consent pathway was specified in 29 of 1,218 (2.38%; unknown 140).
+### CoreVen registered domain coverage and publication timing
 
-Domain-specific public specification was frailty 11 of 1,218 (0.90%; unknown 32); mobility or function 291 of 1,218 (23.89%; unknown 164); cognition or decision capacity 157 of 1,218 (12.89%; unknown 136); nutrition 105 of 1,218 (8.62%; unknown 216); multimorbidity 7 of 1,218 (0.57%; unknown 64); life expectancy or advanced illness 135 of 1,218 (11.08%; unknown 22); care setting or caregiver 52 of 1,218 (4.27%; unknown 157); and polypharmacy 1 of 1,218 (0.08%; unknown 17). Proxy-consent pathways were reported separately as above.
+Among 304 VLU active-treatment records, complete any-registered CoreVen coverage occurred in 2/304 (0.66% of all; 0.83% of 242 evaluable; indeterminate, 62/304). Complete primary-registered coverage was 0/304 (indeterminate, 22). Domain-level primary and any-registered results are reported in Figure 4 and Supplementary Tables S7 and S20.
 
-### Planned CoreVen coverage
+Using the final CoreVen electronic publication date of 4 March 2024, complete any-registered coverage was 1/265 (indeterminate, 54) before publication, 1/39 (indeterminate, 8) after publication without a lag, 1/31 (indeterminate, 7) after a 6-month lag and 0/12 (indeterminate, 3) after a 12-month lag. These sparse descriptive strata do not establish framework adoption.
 
-Within applicable venous-leg-ulcer active-treatment trials, any-planned coverage was healing 129 of 304 (42.43%; unknown 36); pain 115 of 304 (37.83%; unknown 25); quality of life 79 of 304 (25.99%; unknown 40); resource use 17 of 304 (5.59%; unknown 58); and adverse events 112 of 304 (36.84%; unknown 32).[5]
+### OUTPUTs registered domain coverage and publication timing
 
-All CoreVen domains were covered by any planned outcome in 2 of 304 applicable trials (0.66%; unknown 61).
+Among 184 pressure-injury-prevention records, complete any-registered OUTPUTs coverage was 0/184 (0.00% of all; 0.00% of 152 evaluable; indeterminate, 32/184); complete primary-registered coverage was 0/184 (indeterminate, 22). Domain-level results are reported in Figure 4 and Supplementary Tables S9 and S20.
 
-### Planned OUTPUTs coverage
+Using the final OUTPUTs electronic publication date of 9 August 2022, complete any-registered coverage was 0/120 (indeterminate, 15) before publication, 0/64 (indeterminate, 17) after publication without a lag, 0/56 (indeterminate, 17) after a 6-month lag and 0/49 (indeterminate, 16) after a 12-month lag.
 
-Within applicable pressure-injury prevention trials, any-planned coverage was pressure-injury occurrence 40 of 184 (21.74%; unknown 29); precursor signs or symptoms 4 of 184 (2.17%; unknown 33); mobility 29 of 184 (15.76%; unknown 28); acceptability or comfort 23 of 184 (12.50%; unknown 28); adherence or compliance 4 of 184 (2.17%; unknown 33); and adverse events or safety 22 of 184 (11.96%; unknown 27).[6]
+### Registration-timing sensitivity
 
-All OUTPUTs domains were covered by any planned outcome in 0 of 184 applicable trials (0.00%; unknown 33).
+Among prospectively or same-day registered framework-applicable records, complete any-registered coverage was 2/165 (indeterminate, 40) for CoreVen and 0/104 (indeterminate, 21) for OUTPUTs. Corresponding retrospective strata were 0/139 (indeterminate, 22) and 0/80 (indeterminate, 11). Because current-snapshot outcomes can be edited after first registration, this stratification reduces but does not remove temporal ambiguity.
 
-### Prespecified descriptive contrasts
+### Posted age-category exploration
 
-Comparing the prespecified earlier period (2008–2016) with the later period (2019–2025), finite structured upper-age limits were present in 33.86% versus 39.75% of records, an absolute difference of +5.89 percentage points. Reconciled accessibility at age 85 years was 73.64% versus 64.44%, an absolute difference of −9.20 percentage points. At least one primary geriatric domain was publicly specified in 40.68% versus 51.86%, an absolute difference of +11.18 percentage points. These were descriptive finite-population contrasts.
+Results were posted for 207/1,218 records (17.00%). Interpretable age-category groups were extractable for 96 records (7.88% of all records; 46.38% of records with results), and 86 records explicitly displayed an older age category (7.06% of all; 41.55% of records with results) (Supplementary Table S13). Registry age groups were heterogeneous and did not support reconstruction of individual participant ages or actual age representation.
 
-For venous-leg-ulcer active treatment versus pressure-injury prevention, reconciled accessibility at age 85 years was 78.95% versus 67.93%, an absolute difference of −11.01 percentage points. At least one primary geriatric domain was publicly specified in 27.30% versus 63.59%, an absolute difference of +36.28 percentage points.
+### Reliability and validation
+
+In the 120-record prespecified independent human reliability sample, eligibility agreement was 119/120 (99.17%), Cohen κ was 0.9556 and Gwet AC1 was 0.9908; positive and negative agreement were 100.00% and 99.53%, respectively. The supplementary independent human agreement audit for geriatric directionality yielded 713/788 agreements and 75/788 disagreements (raw agreement, 0.9048223350; Cohen κ, 0.8835674462). The supplementary independent human outcome-mapping audit yielded 90/100 agreements and 10/100 disagreements (raw agreement, 0.9000000000; Cohen κ, 0.8805542284). All agreement statistics use pre-adjudication human labels. All derived numerical outputs passed deterministic reconciliation (Supplementary Tables S14 and S15).
 
 ## Discussion
 
-The validated registry audit separates age accessibility, public geriatric-context specification, and condition-specific planned outcome coverage. These dimensions cannot be replaced by a single older-adult applicability score and should not be interpreted as actual enrollment, patient-level diagnoses, measured frailty, or treatment effects.
+### Principal findings
 
-Parallel structured and reconciled age measures make field interpretation and missingness visible. Neither scale establishes the age distribution of enrolled participants, and the absence of an explicit upper-age limit does not show that older adults were recruited.
+This audit separates three registry-level questions that are often collapsed. Many records formally permitted entry at older ages, but public documentation of geriatric context was less common and frequently indeterminate. Condition-specific registered outcome-domain coverage added a third, only partly overlapping dimension. The joint distribution therefore does not support a single older-adult-applicability score. It supports a more limited conclusion: users of current ClinicalTrials.gov records can often determine formal age access, but they cannot consistently determine how geriatric complexity was handled or whether registered outcomes span every domain in an applicable core outcome framework.
 
-The public registry often did not specify primary geriatric domains. Not-publicly-specified and expert-decision states therefore mark limits of public evidence; they are not evidence that a domain was clinically absent. Proxy-consent pathways were reported separately because they concern decision-making access rather than the eight clinical geriatric domains. Improved registry specification could support more transparent judgments about older-adult relevance.
+### Formal access is not representation
 
-Planned outcome coverage was incomplete within both approved framework populations, but the denominators and clinical purposes differ. CoreVen findings are confined to venous-leg-ulcer active treatment, and OUTPUTs findings to pressure-injury prevention.[5,6] Pressure-injury treatment, venous-leg-ulcer recurrence prevention, and mixed-wound studies remain descriptive and are not forced into either framework.
+Eligibility at age 85 describes protocol-level access. It does not identify who was approached, recruited, retained or analyzed. Even records without an explicit structured upper-age limit may impose functional, cognitive, comorbidity or logistical restrictions elsewhere. The difference between structured and reconciled scales illustrates why both are useful: structured fields are reproducible but incomplete, while full-text reconciliation provides context but adds governed judgment. Neither scale reconstructs actual enrollment.
 
-Keeping unknown, unclear, not-applicable, not-publicly-specified, and expert-decision states separate prevents unsupported conversion of missing registry information into clinical absence. Primary-only and any-planned windows likewise answer different questions and were not combined. The registration-period comparisons were prespecified descriptive contrasts between 2008–2016 and 2019–2025 and do not establish temporal causation.
+The posted-results exploration provides only a narrow partial check. Fewer than half of records with posted results exposed interpretable age categories, and the categories were not standardized. These data cannot establish whether older participants were proportionately represented. Participant-level or standardized age-band reporting would be required for that question.
 
-## Strengths and limitations
+### Geriatric context is a transparency construct
 
-Strengths include a frozen adjudicated population, hash-verified official JSON, human-confirmed final eligibility and coding, principal-investigator adjudication, framework-specific denominators, explicit missing states, denominator-level audits, and fresh independent validation before interpretation.
+PRESENT denotes public documentation, not clinical prevalence or design quality. A mobility or cognition term may be an exclusion, accommodation, assessment, intervention component or contextual statement. NOT_PUBLICLY_SPECIFIED does not prove that investigators ignored the domain, and INDETERMINATE_AFTER_REVIEW quantifies genuine source ambiguity rather than a negative classification. The wide gap between full-cohort and evaluable-denominator percentages for the eight-domain composite shows why reporting only complete cases would overstate certainty.
 
-The study is limited to publicly registered information. Registry-defined age accessibility does not establish actual enrollment; geriatric-domain codes do not represent patient diagnoses or a validated frailty scale; and planned outcomes are not reported clinical results. The frozen population should not be generalized to all trials worldwide.
+The eight domains were kept separate because they are not exchangeable, and proxy consent was separated because it concerns access to decision making. CoreVen and OUTPUTs are not geriatric-specific frameworks. Their value here is to show whether a current record documents condition-specific outcome domains that may matter to patients and evidence users, not to measure geriatric quality.
 
-Reporter and unit-of-analysis fields had lower reliability and are retained only for supplementary or exploratory description. They do not support the primary interpretation.
+### Historical concordance is not framework adoption
 
-The Record History conditional module was not executed because no version-level official history dataset was frozen. The guide document is supporting audit material only and had no analytic impact. Any future execution requires a governed amendment.
+Current-snapshot concordance with CoreVen or OUTPUTs must not be called prospective planning, adherence or adoption. Most applicable trials predated the final frameworks, and current registry outcomes may have been edited. The publication-time strata show the historical composition explicitly but remain sparse after publication, particularly for CoreVen. Complete coverage was rare in both pre- and post-publication records, yet the data do not establish that investigators were aware of or responding to a framework. A credible adoption study would require complete official version histories, dates of outcome-field changes and an analysis designed around exposure to the final core set.
 
-The added-record cross-scale quality-control agreement is not traditional unassisted independent-human reliability. Final decisions and scientific responsibility remained with the named human investigators.
+Primary-registered and any-registered windows also answer different questions. A secondary registered domain does not become a primary objective. Conversely, primary-only analysis overlooks documented secondary domains. Keeping the windows separate avoids both errors.
+
+### Registry transparency and aging research
+
+For aging research, the main opportunity is better structured transparency rather than unsupported inference about investigators’ intentions. Registries could distinguish whether geriatric constructs are eligibility restrictions, supports, measurements or intervention components; require structured outcome provenance; and encourage standardized age-category results. Trial teams can state why age thresholds are appropriate, how participation burden and consent access are addressed, and which condition-specific outcome domains are registered.
+
+The corrected cohort and false-negative audit also show the importance of retrieval sensitivity and append-only correction. The 12 added records changed the cohort but did not justify erasing the historical 1,206-record outputs. Preserving both versions and independently rebuilding the corrected analysis makes the error and its consequences auditable.
+
+### Strengths and limitations
+
+Strengths include complete source-hash coverage, explicit retrieval paths, human-confirmed eligibility and coding, PI adjudication, framework-specific denominators, preservation of indeterminate states, lower- and upper-bound analyses, append-only cohort correction and independent deterministic reproduction.
+
+Limitations are substantial. ClinicalTrials.gov is not a global census. Current records can be incomplete or revised, and no complete version-level history dataset was frozen. Public documentation is not the same as trial conduct; age eligibility is not actual recruitment; geriatric-domain coding is not patient prevalence or a validated frailty score; and registered outcome entries are not reported clinical results. Framework publication-time strata were small and cannot estimate uptake. Results modules provided heterogeneous age groups rather than individual ages. Some mappings required expert judgment; reporter and unit-of-analysis fields had lower workflow-QC agreement and were restricted to supplementary or exploratory use. The prespecified reliability sample was limited to 120 records; the 788-row directionality and 100-row outcome-mapping agreement analyses were supplementary human audits and should be interpreted within their specific coding tasks. Institutional ethics wording remains limited to the documented public-data project determination and does not claim a reference-numbered committee letter.
+
+The analysis is descriptive. It does not estimate treatment effects, causal relationships, age discrimination, actual representativeness or global trial quality.
 
 ## Conclusions
 
-Older-adult relevance in registered chronic-wound trials requires separate appraisal of age accessibility, geriatric-context specification, and condition-specific planned outcome coverage. The corrected validated audit identifies opportunities to improve registry completeness and trial planning while avoiding claims about treatment effects, causality, actual enrollment, age discrimination, or global representativeness.
-
-## Ethics statement
-
-This study analyzed only publicly available ClinicalTrials.gov registration records and did not involve participant recruitment, intervention, contact, access to identifiable private data, or use of patient-level clinical records. The lead institution determined that this public-data registry audit was exempt from formal ethics review and that informed consent was not required.
+In current ClinicalTrials.gov records of venous leg ulcer and pressure-injury trials, formal age eligibility, public documentation of geriatric context and registered outcome-domain coverage were related but incompletely overlapping features. Many records permitted protocol entry at older ages, whereas geriatric context was inconsistently documented and often indeterminate. Historical concordance with condition-specific core outcome frameworks was limited, but interpretation depended on registration timing, record version and whether trials predated the framework. These findings identify gaps in public registry transparency and do not establish actual enrollment, prospective outcome specification, framework adoption or representation of older adults.
 
 ## Data availability
 
-The source records analyzed in this study are publicly accessible through ClinicalTrials.gov.[7] The governed project retains the frozen list of 1,218 NCT identifiers, source hashes, minimized derived analysis data, final human-confirmed coding, validated tables and figures, and provenance records. A public reproducibility release package has been prepared. The final public repository URL and archival DOI will be inserted after repository creation and verification and before manuscript submission.
+ClinicalTrials.gov source records are publicly accessible by NCT identifier. The governed project retains the frozen 1,218-identifier list, source hashes, minimized derived data, the signed original coding, the append-only age-correction ledger, validated tables and provenance records. Complete registry JSON is not redistributed because the reproducibility release is data-minimized. The public repository is https://github.com/wang177777/chronic-wound-aging-registry-audit.
 
 ## Code availability
 
-The complete analysis code, independent validation code, environment lock files, tests, analytical input manifest, validated tables and figures, and reproducibility documentation have been assembled in a public-release package. Nature Portfolio requires central custom code to be accessible and described in a separate Code availability section. A dedicated public GitHub repository and DOI-bearing archival release will be created and the verified identifiers inserted before submission. No repository URL is claimed in this draft because the dedicated repository has not yet been created.
+Project code is available at https://github.com/wang177777/chronic-wound-aging-registry-audit. The exact data-minimized reproducibility release used for this submission is https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.1. Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
 
 ## Author contributions
 
-Guoyong Wang: Conceptualization, methodology, formal analysis, investigation, project administration, validation, visualization, writing—original draft, and writing—review and editing. Kaijun Zhang: Methodology, investigation, literature verification, validation, and writing—review and editing. Jiyue Jiang: Software, data curation, formal analysis, methodology, validation, visualization, and writing—review and editing. Chaonan Wang: Investigation, data curation, validation, funding acquisition, and writing—review and editing. Weixin Wang: Investigation, data curation, independent validation, and writing—review and editing. Hui Bi: Methodology, geriatric-construct validation, clinical interpretation, and writing—review and editing. Haojun Liang: Methodology, wound-clinical validation, outcome-framework validation, and writing—review and editing. Zuoliang Qi: Supervision, resources, senior clinical validation, and writing—review and editing. Ying Huang: Methodology, supervision, project administration, and writing—review and editing. Yu Li: Methodology, software audit, formal analysis, independent reproducibility validation, supervision, visualization, and writing—review and editing. Xiaonan Yang: Conceptualization, supervision, resources, funding acquisition, clinical validation, and writing—review and editing. All authors approved the final manuscript and agree to be accountable for their own contributions and for resolving questions concerning the accuracy or integrity of the work.
+Guoyong Wang: Conceptualization, methodology, formal analysis, investigation, project administration, validation, visualization, writing—original draft, and writing—review and editing. Kaijun Zhang: Methodology, investigation, literature verification, validation, and writing—review and editing. Jiyue Jiang: Software, data curation, formal analysis, methodology, validation, visualization, and writing—review and editing. Weixin Wang: Investigation, data curation, independent validation, and writing—review and editing. Chaonan Wang: Investigation, data curation, validation, funding acquisition, and writing—review and editing. Hui Bi: Methodology, geriatric-construct validation, clinical interpretation, and writing—review and editing. Haojun Liang: Methodology, wound-clinical validation, outcome-framework validation, and writing—review and editing. Zuoliang Qi: Supervision, resources, senior clinical validation, and writing—review and editing. Ying Huang: Methodology, supervision, project administration, and writing—review and editing. Yu Li: Methodology, software audit, formal analysis, independent reproducibility validation of the preceding cohort-correction analysis, supervision, visualization, and writing—review and editing. Xiaonan Yang: Conceptualization, supervision, resources, funding acquisition, clinical validation, and writing—review and editing.
 
 ## Funding
 
-Xiaonan Yang acknowledges support for this work from the Special Program for Clinical and Translational Medical Research of the Chinese Academy of Medical Sciences (2025-12M-C&T-B-067), the National Clinical Key Specialty Construction Project (23003), the Plastic Medicine Research Fund of the Chinese Academy of Medical Sciences (2024-ZX-1-01), and the Special Research Fund for Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College (YSZ2024CG007). Chaonan Wang acknowledges support from the Beijing Natural Science Foundation (L256048). No other funding was reported for this work.
+Xiaonan Yang acknowledges support from the Special Program for Clinical and Translational Medical Research of the Chinese Academy of Medical Sciences (2025-12M-C&T-B-067), the National Clinical Key Specialty Construction Project (23003), the Plastic Medicine Research Fund of the Chinese Academy of Medical Sciences (2024-ZX-1-01), and the Special Research Fund for Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College (YSZ2024CG007). Chaonan Wang acknowledges support from the Beijing Natural Science Foundation (L256048). No other funding was reported.
 
 ## Competing interests
 
 The authors declare no competing interests.
 
-## Acknowledgements
+## Ethics statement
 
-None.
+This study used legally obtained, publicly available, non-identifiable aggregate study-registry information and published literature. It involved no interaction or intervention with participants and no access to individual-level or identifiable private data. On 25 July 2026, research lead Guoyong Wang recorded a public-data exemption determination under Article 32(1) of the 2023 Chinese *Measures for Ethical Review of Life Science and Medical Research Involving Humans*. Ethics committee approval and informed consent were not required; the reference number is not applicable, and no reference-numbered institutional ethics-committee letter is claimed. Any use of non-public, identifiable or participant-level data would require a new determination.
 
+
+## Figure legends
+
+**Figure 1 | Cohort identification and adjudication flow.** Non-additive query-hit counts from the frozen AACT and ClinicalTrials.gov API paths were deduplicated to 34,972 unique NCT identifiers. The prespecified 120-record reliability sample contained 12 included and 108 excluded records; the remaining 34,852-record full-screening component contained 1,194 included and 33,658 excluded records before the targeted sweep. The sweep covered 33,658 exclusions from the full-screening module; the 108 excluded records in the separate 120-record reliability sample were not part of this sweep. Human review added 12 eligible records, giving 1,218 included and 33,754 excluded records (108 + 33,646). CoreVen and OUTPUTs were applied only to their prespecified condition-specific populations.
+
+**Figure 2 | Structured and reconciled age accessibility.** **a**, Accessibility at four prespecified chronological ages using structured registry fields and separately reconciled full-eligibility evidence. **b**, Structured maximum-age-field status. Percentages use all 1,218 included records; indeterminate counts were preserved. Protocol eligibility is not evidence of actual enrollment or representation.
+
+**Figure 3 | Public documentation of geriatric context with indeterminate states.** **a**, Eight clinical domains were kept separate and displayed as publicly specified, not publicly specified, or indeterminate after review. Values printed at right are specified n | indeterminate n. **b**, Proxy-consent pathways were reported separately because they describe consent access rather than a clinical geriatric domain. These registry-level fields are neither patient diagnoses nor validated frailty measurements.
+
+**Figure 4 | Framework-specific registered outcome-domain coverage.** **a**, Primary-registered CoreVen domain coverage in venous-leg-ulcer active-treatment records. **b**, Any-registered CoreVen domain coverage. **c**, Primary-registered OUTPUTs domain coverage in pressure-injury-prevention records. **d**, Any-registered OUTPUTs domain coverage. Bars show confirmed full-denominator proportions. Indeterminate mapping states and denominator-sensitive results are reported in the Supplementary Information.
+
+
+## Table legend
+
+**Table 1 | Characteristics of the 1,218 included trial-registration records.** Values are n/N (%) unless stated otherwise. Unknown values are explicit. VLU, venous leg ulcer; PI, pressure injury; IQR, interquartile range.
 
 ## References
 
-1. Zulman, D. M. et al. Examining the evidence: a systematic review of the inclusion and analysis of older adults in randomized controlled trials. *J. Gen. Intern. Med.* **26**, 783–790 (2011). https://doi.org/10.1007/s11606-010-1629-x
-2. van Deudekom, F. J. et al. External validity of randomized controlled trials in older adults, a systematic review. *PLoS ONE* **12**, e0174053 (2017). https://doi.org/10.1371/journal.pone.0174053
-3. Zarin, D. A., Tse, T., Williams, R. J. & Carr, S. Trial reporting in ClinicalTrials.gov—the final rule. *N. Engl. J. Med.* **375**, 1998–2004 (2016). https://doi.org/10.1056/NEJMsr1611785
-4. Williamson, P. R. et al. The COMET Handbook: version 1.0. *Trials* **18** (Suppl 3), 280 (2017). https://doi.org/10.1186/s13063-017-1978-4
-5. Hallas, S. et al. Development of a core outcome set for use in research evaluations of interventions for venous leg ulceration: international eDelphi consensus. *J. Tissue Viability* **33**, 324–331 (2024). https://doi.org/10.1016/j.jtv.2024.02.006
-6. Lechner, A. et al. Core outcomes for pressure ulcer prevention trials: results of an international consensus study. *Br. J. Dermatol.* **187**, 743–752 (2022). https://doi.org/10.1111/bjd.21741
-7. ClinicalTrials.gov. U.S. National Library of Medicine. https://clinicaltrials.gov/ (accessed 25 July 2026).
+1. Zulman DM et al. Examining the evidence: a systematic review of the inclusion and analysis of older adults in randomized controlled trials. *J Gen Intern Med* **26**, 783-90 (2011). https://doi.org/10.1007/s11606-010-1629-x
+2. van Deudekom FJ et al. External validity of randomized controlled trials in older adults, a systematic review. *PLoS One* **12**, e0174053 (2017). https://doi.org/10.1371/journal.pone.0174053
+3. Van Spall HG, Toren A, Kiss A & Fowler RA. Eligibility criteria of randomized controlled trials published in high-impact general medical journals: a systematic sampling review. *JAMA* **297**, 1233-40 (2007). https://doi.org/10.1001/jama.297.11.1233
+4. McMurdo ME et al. Improving recruitment of older people to research through good practice. *Age Ageing* **40**, 659-65 (2011). https://doi.org/10.1093/ageing/afr115
+5. Ludmir EB et al. Factors Associated With Age Disparities Among Cancer Clinical Trial Participants. *JAMA Oncol* **5**, 1769-1773 (2019). https://doi.org/10.1001/jamaoncol.2019.2055
+6. Lau SWJ et al. Participation of Older Adults in Clinical Trials for New Drug Applications and Biologics License Applications From 2010 Through 2019. *JAMA Netw Open* **5**, e2236149 (2022). https://doi.org/10.1001/jamanetworkopen.2022.36149
+7. Denson AC & Mahipal A. Participation of the elderly population in clinical trials: barriers and solutions. *Cancer Control* **21**, 209-14 (2014). https://doi.org/10.1177/107327481402100305
+8. Fried LP et al. Frailty in older adults: evidence for a phenotype. *J Gerontol A Biol Sci Med Sci* **56**, M146-56 (2001). https://doi.org/10.1093/gerona/56.3.m146
+9. Clegg A, Young J, Iliffe S, Rikkert MO & Rockwood K. Frailty in elderly people. *Lancet* **381**, 752-62 (2013). https://doi.org/10.1016/s0140-6736(12)62167-9
+10. Inouye SK, Studenski S, Tinetti ME & Kuchel GA. Geriatric syndromes: clinical, research, and policy implications of a core geriatric concept. *J Am Geriatr Soc* **55**, 780-91 (2007). https://doi.org/10.1111/j.1532-5415.2007.01156.x
+11. Marengoni A et al. Aging with multimorbidity: a systematic review of the literature. *Ageing Res Rev* **10**, 430-9 (2011). https://doi.org/10.1016/j.arr.2011.03.003
+12. Boyd CM et al. Clinical practice guidelines and quality of care for older patients with multiple comorbid diseases: implications for pay for performance. *JAMA* **294**, 716-24 (2005). https://doi.org/10.1001/jama.294.6.716
+13. Salive ME. Multimorbidity in older adults. *Epidemiol Rev* **35**, 75-83 (2013). https://doi.org/10.1093/epirev/mxs009
+14. Maher RL, Hanlon J & Hajjar ER. Clinical consequences of polypharmacy in elderly. *Expert Opin Drug Saf* **13**, 57-65 (2014). https://doi.org/10.1517/14740338.2013.827660
+15. Rockwood K & Mitnitski A. Frailty defined by deficit accumulation and geriatric medicine defined by frailty. *Clin Geriatr Med* **27**, 17-26 (2011). https://doi.org/10.1016/j.cger.2010.08.008
+16. Sen CK et al. Human skin wounds: a major and snowballing threat to public health and the economy. *Wound Repair Regen* **17**, 763-71 (2009). https://doi.org/10.1111/j.1524-475x.2009.00543.x
+17. Falanga V et al. Chronic wounds. *Nat Rev Dis Primers* **8**, 50 (2022). https://doi.org/10.1038/s41572-022-00377-3
+18. Margolis DJ, Bilker W, Santanna J & Baumgarten M. Venous leg ulcer: incidence and prevalence in the elderly. *J Am Acad Dermatol* **46**, 381-6 (2002). https://doi.org/10.1067/mjd.2002.121739
+19. Guest JF et al. Health economic burden that wounds impose on the National Health Service in the UK. *BMJ Open* **5**, e009283 (2015). https://doi.org/10.1136/bmjopen-2015-009283
+20. Olsson M et al. The humanistic and economic burden of chronic wounds: A systematic review. *Wound Repair Regen* **27**, 114-125 (2019). https://doi.org/10.1111/wrr.12683
+21. Jaul E, Barron J, Rosenzweig JP & Menczel J. An overview of co-morbidities and the development of pressure ulcers among older adults. *BMC Geriatr* **18**, 305 (2018). https://doi.org/10.1186/s12877-018-0997-7
+22. Li Z, Lin F, Thalib L & Chaboyer W. Global prevalence and incidence of pressure injuries in hospitalised adult patients: A systematic review and meta-analysis. *Int J Nurs Stud* **105**, 103546 (2020). https://doi.org/10.1016/j.ijnurstu.2020.103546
+23. Zarin DA, Tse T, Williams RJ & Carr S. Trial Reporting in ClinicalTrials.gov - The Final Rule. *N Engl J Med* **375**, 1998-2004 (2016). https://doi.org/10.1056/nejmsr1611785
+24. Zarin DA, Tse T, Williams RJ, Califf RM & Ide NC. The ClinicalTrials.gov results database--update and key issues. *N Engl J Med* **364**, 852-60 (2011). https://doi.org/10.1056/nejmsa1012065
+25. Anderson ML et al. Compliance with results reporting at ClinicalTrials.gov. *N Engl J Med* **372**, 1031-9 (2015). https://doi.org/10.1056/nejmsa1409364
+26. DeVito NJ, Bacon S & Goldacre B. Compliance with legal requirement to report clinical trial results on ClinicalTrials.gov: a cohort study. *Lancet* **395**, 361-369 (2020). https://doi.org/10.1016/s0140-6736(19)33220-9
+27. Hartung DM et al. Reporting discrepancies between the ClinicalTrials.gov results database and peer-reviewed publications. *Ann Intern Med* **160**, 477-83 (2014). https://doi.org/10.7326/m13-0480
+28. Jones CW, Keil LG, Holland WC, Caughey MC & Platts-Mills TF. Comparison of registered and published outcomes in randomized controlled trials: a systematic review. *BMC Med* **13**, 282 (2015). https://doi.org/10.1186/s12916-015-0520-3
+29. Tse T, Fain KM & Zarin DA. How to avoid common problems when using ClinicalTrials.gov in research: 10 issues to consider. *BMJ* **361**, k1452 (2018). https://doi.org/10.1136/bmj.k1452
+30. Williamson PR et al. The COMET Handbook: version 1.0. *Trials* **18**, 280 (2017). https://doi.org/10.1186/s13063-017-1978-4
+31. Williamson PR et al. Developing core outcome sets for clinical trials: issues to consider. *Trials* **13**, 132 (2012). https://doi.org/10.1186/1745-6215-13-132
+32. Kirkham JJ et al. Core Outcome Set-STAndards for Reporting: The COS-STAR Statement. *PLoS Med* **13**, e1002148 (2016). https://doi.org/10.1371/journal.pmed.1002148
+33. Kirkham JJ et al. Core Outcome Set-STAndards for Development: The COS-STAD recommendations. *PLoS Med* **14**, e1002447 (2017). https://doi.org/10.1371/journal.pmed.1002447
+34. Hallas S et al. Development of a core outcome set for venous leg ulceration (CoreVen) research evaluations (protocol). *J Tissue Viability* **30**, 317-323 (2021). https://doi.org/10.1016/j.jtv.2021.03.005
+35. Hallas S, Nelson EA, O'Meara S & Gethin G. Identifying outcomes reported in trials of interventions in venous leg ulceration for a core outcome set development: A scoping review. *J Tissue Viability* **31**, 751-760 (2022). https://doi.org/10.1016/j.jtv.2022.07.013
+36. Hallas, S., Nelson, E. A., O’Meara, S. & Gethin, G. Development of a core outcome set for use in research evaluations of interventions for venous leg ulceration: International eDelphi consensus. *J. Tissue Viability* **33**, 324–331 (2024). https://doi.org/10.1016/j.jtv.2024.02.006
+37. Patton D et al. A systematic review of the impact of compression therapy on quality of life and pain among people with a venous leg ulcer. *Int Wound J* **21**, e14816 (2024). https://doi.org/10.1111/iwj.14816
+38. Lechner A et al. Outcomes for Pressure Ulcer Trials (OUTPUTs): protocol for the development of a core domain set for trials evaluating the clinical efficacy or effectiveness of pressure ulcer prevention interventions. *Trials* **20**, 449 (2019). https://doi.org/10.1186/s13063-019-3543-9
+39. Lechner A et al. Outcomes for Pressure Ulcer Trials (OUTPUTs) project: review and classification of outcomes reported in pressure ulcer prevention research. *Br J Dermatol* **184**, 617-626 (2021). https://doi.org/10.1111/bjd.19304
+40. Lechner A et al. Core outcomes for pressure ulcer prevention trials: results of an international consensus study: Classification: Outcomes and qualitative research. *Br J Dermatol* **187**, 743-752 (2022). https://doi.org/10.1111/bjd.21741
+41. Fledderus AC & Gout HA. A core outcome set for pressure ulcers: an important step towards standardized outcome reporting of prevention strategies. *Br J Dermatol* **187**, 634-635 (2022). https://doi.org/10.1111/bjd.21814
+42. von Elm E et al. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. *PLoS Med* **4**, e296 (2007). https://doi.org/10.1371/journal.pmed.0040296
+43. Benchimol EI et al. The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement. *PLoS Med* **12**, e1001885 (2015). https://doi.org/10.1371/journal.pmed.1001885
+44. Tasneem, A. et al. The database for aggregate analysis of ClinicalTrials.gov (AACT) and subsequent regrouping by clinical specialty. *PLoS One* **7**, e33677 (2012). https://doi.org/10.1371/journal.pone.0033677
+45. U.S. National Library of Medicine. ClinicalTrials.gov. https://clinicaltrials.gov/ (accessed 28 July 2026).
+46. U.S. National Library of Medicine. ClinicalTrials.gov API version 2.0. https://clinicaltrials.gov/data-api/about-api (accessed 28 July 2026).

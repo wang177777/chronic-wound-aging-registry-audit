@@ -1,0 +1,31 @@
+STEP13B PRIMARY ANALYSIS QA
+execution_timestamp_utc=2026-07-28T12:00:00Z
+001 PASS locked master exists
+002 PASS SAP exists
+003 PASS analytical input manifest has 1221 verified rows
+004 PASS locked master hash
+005 PASS SAP hash
+006 PASS included NCT count is 1218
+007 PASS age field rows are 18270
+008 PASS geriatric rows are 10962
+009 PASS framework rows are 1218
+010 PASS outcome rows are 7633
+011 PASS unresolved final values are zero
+012 PASS frozen master records 1218 included NCT IDs
+013 PASS included NCT sets match all frozen trial-level tables
+014 PASS outcome row IDs are unique
+015 PASS all outcome rows belong to included NCT IDs
+016 PASS all raw JSON hashes match
+017 PASS full JSON hash coverage is 1218/1218
+018 PASS denominator audit passes
+019 PASS table and figure data reconcile
+020 PASS processed outputs contain no contact fields or values
+021 PASS VLU and PI outcome frameworks remain separate
+022 PASS missing-state categories remain separate
+023 PASS no prohibited inferential output found
+checks_total=23
+checks_passed=23
+checks_failed=0
+PROHIBITED_INFERENCE_FOUND=NO
+INDEPENDENT_VALIDATION_COMPLETED_AT_PRIMARY_RUN=NO
+exit_code=0

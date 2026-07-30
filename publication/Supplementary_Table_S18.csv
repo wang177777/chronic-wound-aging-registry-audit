@@ -1,0 +1,24 @@
+Section,Category_or_NCT_ID,Classification,Count,Denominator,Percent
+Final exclusion reasons,NOT_TARGET_CONDITION,Final primary exclusion reason,18555,33754,54.971263
+Final exclusion reasons,OBSERVATIONAL_OR_REGISTRY,Final primary exclusion reason,5863,33754,17.369793
+Final exclusion reasons,OUTSIDE_PRIMARY_FIRST_POST_WINDOW,Final primary exclusion reason,4045,33754,11.983765
+Final exclusion reasons,DIAGNOSTIC_MEASUREMENT_IMAGING_PROGNOSIS_ONLY,Final primary exclusion reason,1907,33754,5.649701
+Final exclusion reasons,OTHER_WOUND_ONLY,Final primary exclusion reason,1779,33754,5.270486
+Final exclusion reasons,PEDIATRIC_ONLY,Final primary exclusion reason,1583,33754,4.689815
+Final exclusion reasons,NOT_INTERVENTIONAL,Final primary exclusion reason,10,33754,0.029626
+Final exclusion reasons,TARGET_ONLY_BACKGROUND_OR_EXCLUSION_TEXT,Final primary exclusion reason,7,33754,0.020738
+Final exclusion reasons,HEALTHY_VOLUNTEER_EXPERIMENTAL_WOUND,Final primary exclusion reason,2,33754,0.005925
+Final exclusion reasons,WRONG_PREVENTION_TREATMENT_INTENT,Final primary exclusion reason,2,33754,0.005925
+Final exclusion reasons,ACUTE_SURGICAL_BURN_OR_TRAUMATIC_WOUND,Final primary exclusion reason,1,33754,0.002963
+Post-audit added records,NCT00852995,VLU_ACTIVE_TREATMENT,1,12,8.333333
+Post-audit added records,NCT06849024,VLU_ACTIVE_TREATMENT,1,12,8.333333
+Post-audit added records,NCT06725797,MIXED_WOUND,1,12,8.333333
+Post-audit added records,NCT06707103,VLU_ACTIVE_TREATMENT,1,12,8.333333
+Post-audit added records,NCT06435143,PI_TREATMENT,1,12,8.333333
+Post-audit added records,NCT02382302,PI_TREATMENT,1,12,8.333333
+Post-audit added records,NCT03716167,VLU_ACTIVE_TREATMENT,1,12,8.333333
+Post-audit added records,NCT06629506,MIXED_WOUND,1,12,8.333333
+Post-audit added records,NCT02154087,VLU_ACTIVE_TREATMENT,1,12,8.333333
+Post-audit added records,NCT06707090,VLU_ACTIVE_TREATMENT,1,12,8.333333
+Post-audit added records,NCT06780371,PI_PREVENTION,1,12,8.333333
+Post-audit added records,NCT05586646,PI_TREATMENT,1,12,8.333333

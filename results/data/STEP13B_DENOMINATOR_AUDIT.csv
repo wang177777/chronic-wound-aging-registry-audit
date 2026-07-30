@@ -1,0 +1,597 @@
+Audit_ID,Object,Source,Numerator,Denominator,Unknown_Count,Percentage,Status,Rule
+DEN_AGE0001,AGE0001,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1098,1218,39,90.147783,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0002,AGE0002,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,81,1218,39,6.650246,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0003,AGE0003,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,39,1218,39,3.20197,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0004,AGE0004,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,0,1218,39,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0005,AGE0005,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,970,1218,39,79.638752,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0006,AGE0006,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,209,1218,39,17.159278,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0007,AGE0007,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,39,1218,39,3.20197,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0008,AGE0008,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,0,1218,39,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0009,AGE0009,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,915,1218,39,75.123153,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0010,AGE0010,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,264,1218,39,21.674877,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0011,AGE0011,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,39,1218,39,3.20197,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0012,AGE0012,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,0,1218,39,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0013,AGE0013,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,847,1218,39,69.54023,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0014,AGE0014,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,332,1218,39,27.2578,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0015,AGE0015,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,39,1218,39,3.20197,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0016,AGE0016,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,0,1218,39,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0017,AGE0017,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1103,1218,27,90.558292,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0018,AGE0018,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,88,1218,27,7.224959,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0019,AGE0019,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,27,1218,27,2.216749,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0020,AGE0020,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,0,1218,27,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0021,AGE0021,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,978,1218,27,80.295567,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0022,AGE0022,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,213,1218,27,17.487685,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0023,AGE0023,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,27,1218,27,2.216749,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0024,AGE0024,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,0,1218,27,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0025,AGE0025,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,925,1218,27,75.944171,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0026,AGE0026,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,266,1218,27,21.83908,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0027,AGE0027,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,27,1218,27,2.216749,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0028,AGE0028,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,0,1218,27,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0029,AGE0029,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,858,1218,27,70.44335,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0030,AGE0030,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,333,1218,27,27.339901,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0031,AGE0031,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,27,1218,27,2.216749,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0032,AGE0032,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,0,1218,27,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0033,AGE0033,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,456,1218,38,37.438424,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0034,AGE0034,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,724,1218,38,59.441708,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0035,AGE0035,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,38,1218,38,3.119869,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0036,AGE0036,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1186,1218,0,97.372742,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0037,AGE0037,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,32,1218,0,2.627258,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0038,AGE0038,T03_AGE_NUMERIC_SUMMARY.csv,,1218,39,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0039,AGE0039,T03_AGE_NUMERIC_SUMMARY.csv,,1218,39,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0040,AGE0040,T03_AGE_NUMERIC_SUMMARY.csv,,1218,39,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0041,AGE0041,T03_AGE_NUMERIC_SUMMARY.csv,,1218,39,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0042,AGE0042,T03_AGE_NUMERIC_SUMMARY.csv,,1218,39,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0043,AGE0043,T03_AGE_NUMERIC_SUMMARY.csv,,1218,762,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0044,AGE0044,T03_AGE_NUMERIC_SUMMARY.csv,,1218,762,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0045,AGE0045,T03_AGE_NUMERIC_SUMMARY.csv,,1218,762,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0046,AGE0046,T03_AGE_NUMERIC_SUMMARY.csv,,1218,762,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_AGE0047,AGE0047,T03_AGE_NUMERIC_SUMMARY.csv,,1218,762,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0001,GER0001,T05_GERIATRIC_DOMAIN_CODES.csv,1175,1218,32,96.469622,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0002,GER0002,T05_GERIATRIC_DOMAIN_CODES.csv,11,1218,32,0.90312,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0003,GER0003,T05_GERIATRIC_DOMAIN_CODES.csv,32,1218,32,2.627258,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0004,GER0004,T05_GERIATRIC_DOMAIN_CODES.csv,763,1218,164,62.643678,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0005,GER0005,T05_GERIATRIC_DOMAIN_CODES.csv,291,1218,164,23.891626,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0006,GER0006,T05_GERIATRIC_DOMAIN_CODES.csv,164,1218,164,13.464696,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0007,GER0007,T05_GERIATRIC_DOMAIN_CODES.csv,925,1218,136,75.944171,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0008,GER0008,T05_GERIATRIC_DOMAIN_CODES.csv,157,1218,136,12.889984,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0009,GER0009,T05_GERIATRIC_DOMAIN_CODES.csv,136,1218,136,11.165846,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0010,GER0010,T05_GERIATRIC_DOMAIN_CODES.csv,1049,1218,140,86.124795,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0011,GER0011,T05_GERIATRIC_DOMAIN_CODES.csv,29,1218,140,2.380952,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0012,GER0012,T05_GERIATRIC_DOMAIN_CODES.csv,140,1218,140,11.494253,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0013,GER0013,T05_GERIATRIC_DOMAIN_CODES.csv,897,1218,216,73.64532,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0014,GER0014,T05_GERIATRIC_DOMAIN_CODES.csv,105,1218,216,8.62069,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0015,GER0015,T05_GERIATRIC_DOMAIN_CODES.csv,216,1218,216,17.73399,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0016,GER0016,T05_GERIATRIC_DOMAIN_CODES.csv,1147,1218,64,94.170772,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0017,GER0017,T05_GERIATRIC_DOMAIN_CODES.csv,7,1218,64,0.574713,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0018,GER0018,T05_GERIATRIC_DOMAIN_CODES.csv,64,1218,64,5.254516,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0019,GER0019,T05_GERIATRIC_DOMAIN_CODES.csv,1061,1218,22,87.110016,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0020,GER0020,T05_GERIATRIC_DOMAIN_CODES.csv,135,1218,22,11.083744,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0021,GER0021,T05_GERIATRIC_DOMAIN_CODES.csv,22,1218,22,1.80624,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0022,GER0022,T05_GERIATRIC_DOMAIN_CODES.csv,1009,1218,157,82.840722,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0023,GER0023,T05_GERIATRIC_DOMAIN_CODES.csv,52,1218,157,4.269294,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0024,GER0024,T05_GERIATRIC_DOMAIN_CODES.csv,157,1218,157,12.889984,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0025,GER0025,T05_GERIATRIC_DOMAIN_CODES.csv,1200,1218,17,98.522167,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0026,GER0026,T05_GERIATRIC_DOMAIN_CODES.csv,1,1218,17,0.082102,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0027,GER0027,T05_GERIATRIC_DOMAIN_CODES.csv,17,1218,17,1.395731,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0028,GER0028,T06_GERIATRIC_COMPOSITES.csv,575,1218,319,47.208539,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0029,GER0029,T06_GERIATRIC_COMPOSITES.csv,324,1218,319,26.600985,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0030,GER0030,T06_GERIATRIC_COMPOSITES.csv,319,1218,319,26.190476,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0031,GER0031,T06_GERIATRIC_COMPOSITES.csv,575,1218,322,47.208539,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0032,GER0032,T06_GERIATRIC_COMPOSITES.csv,321,1218,322,26.35468,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0033,GER0033,T06_GERIATRIC_COMPOSITES.csv,322,1218,322,26.436782,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0034,GER0034,T06_GERIATRIC_COMPOSITES.csv,29,1218,140,2.380952,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0035,GER0035,T06_GERIATRIC_COMPOSITES.csv,1049,1218,140,86.124795,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GER0036,GER0036,T06_GERIATRIC_COMPOSITES.csv,140,1218,140,11.494253,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0001,OUT0001,T07_COREVEN_COVERAGE.csv,86,304,19,28.289474,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0002,OUT0002,T07_COREVEN_COVERAGE.csv,31,304,20,10.197368,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0003,OUT0003,T07_COREVEN_COVERAGE.csv,5,304,21,1.644737,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0004,OUT0004,T07_COREVEN_COVERAGE.csv,1,304,22,0.328947,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0005,OUT0005,T07_COREVEN_COVERAGE.csv,45,304,18,14.802632,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0006,OUT0006,T09_OUTCOME_COVERAGE_SCORES.csv,0,304,22,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0007,OUT0007,T09_OUTCOME_COVERAGE_SCORES.csv,282,304,22,92.763158,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0008,OUT0008,T09_OUTCOME_COVERAGE_SCORES.csv,22,304,22,7.236842,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0009,OUT0009,T07_COREVEN_COVERAGE.csv,129,304,36,42.434211,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0010,OUT0010,T07_COREVEN_COVERAGE.csv,115,304,25,37.828947,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0011,OUT0011,T07_COREVEN_COVERAGE.csv,79,304,40,25.986842,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0012,OUT0012,T07_COREVEN_COVERAGE.csv,17,304,58,5.592105,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0013,OUT0013,T07_COREVEN_COVERAGE.csv,112,304,32,36.842105,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0014,OUT0014,T09_OUTCOME_COVERAGE_SCORES.csv,2,304,61,0.657895,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0015,OUT0015,T09_OUTCOME_COVERAGE_SCORES.csv,241,304,61,79.276316,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0016,OUT0016,T09_OUTCOME_COVERAGE_SCORES.csv,61,304,61,20.065789,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0017,OUT0017,T08_OUTPUTS_COVERAGE.csv,34,184,22,18.478261,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0018,OUT0018,T08_OUTPUTS_COVERAGE.csv,3,184,23,1.630435,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0019,OUT0019,T08_OUTPUTS_COVERAGE.csv,16,184,23,8.695652,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0020,OUT0020,T08_OUTPUTS_COVERAGE.csv,6,184,23,3.26087,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0021,OUT0021,T08_OUTPUTS_COVERAGE.csv,1,184,23,0.543478,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0022,OUT0022,T08_OUTPUTS_COVERAGE.csv,11,184,23,5.978261,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0023,OUT0023,T09_OUTCOME_COVERAGE_SCORES.csv,0,184,23,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0024,OUT0024,T09_OUTCOME_COVERAGE_SCORES.csv,161,184,23,87.5,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0025,OUT0025,T09_OUTCOME_COVERAGE_SCORES.csv,23,184,23,12.5,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0026,OUT0026,T08_OUTPUTS_COVERAGE.csv,40,184,29,21.73913,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0027,OUT0027,T08_OUTPUTS_COVERAGE.csv,4,184,33,2.173913,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0028,OUT0028,T08_OUTPUTS_COVERAGE.csv,29,184,28,15.76087,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0029,OUT0029,T08_OUTPUTS_COVERAGE.csv,23,184,28,12.5,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0030,OUT0030,T08_OUTPUTS_COVERAGE.csv,4,184,33,2.173913,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0031,OUT0031,T08_OUTPUTS_COVERAGE.csv,22,184,27,11.956522,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0032,OUT0032,T09_OUTCOME_COVERAGE_SCORES.csv,0,184,33,0.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0033,OUT0033,T09_OUTCOME_COVERAGE_SCORES.csv,151,184,33,82.065217,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_OUT0034,OUT0034,T09_OUTCOME_COVERAGE_SCORES.csv,33,184,33,17.934783,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00001,CHR00001,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00002,CHR00002,T11_TRIAL_CHARACTERISTICS.csv,407,1218,2,33.415435,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00003,CHR00003,T11_TRIAL_CHARACTERISTICS.csv,2,1218,2,0.164204,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00004,CHR00004,T11_TRIAL_CHARACTERISTICS.csv,809,1218,2,66.420361,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00005,CHR00005,T11_TRIAL_CHARACTERISTICS.csv,74,1218,0,6.075534,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00006,CHR00006,T11_TRIAL_CHARACTERISTICS.csv,374,1218,0,30.706076,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00007,CHR00007,T11_TRIAL_CHARACTERISTICS.csv,770,1218,0,63.218391,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00008,CHR00008,T11_TRIAL_CHARACTERISTICS.csv,623,1218,0,51.149425,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00009,CHR00009,T11_TRIAL_CHARACTERISTICS.csv,595,1218,0,48.850575,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00010,CHR00010,T11_TRIAL_CHARACTERISTICS.csv,96,1218,102,7.881773,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00011,CHR00011,T11_TRIAL_CHARACTERISTICS.csv,1020,1218,102,83.743842,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00012,CHR00012,T11_TRIAL_CHARACTERISTICS.csv,102,1218,102,8.374384,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00013,CHR00013,T11_TRIAL_CHARACTERISTICS.csv,630,1218,102,51.724138,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00014,CHR00014,T11_TRIAL_CHARACTERISTICS.csv,102,1218,102,8.374384,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00015,CHR00015,T11_TRIAL_CHARACTERISTICS.csv,486,1218,102,39.901478,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00016,CHR00016,T11_TRIAL_CHARACTERISTICS.csv,698,1218,1,57.307061,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00017,CHR00017,T11_TRIAL_CHARACTERISTICS.csv,519,1218,1,42.610837,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00018,CHR00018,T11_TRIAL_CHARACTERISTICS.csv,1,1218,1,0.082102,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00019,CHR00019,T11_TRIAL_CHARACTERISTICS.csv,29,1218,199,2.380952,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00020,CHR00020,T11_TRIAL_CHARACTERISTICS.csv,590,1218,199,48.440066,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00021,CHR00021,T11_TRIAL_CHARACTERISTICS.csv,7,1218,199,0.574713,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00022,CHR00022,T11_TRIAL_CHARACTERISTICS.csv,47,1218,199,3.858785,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00023,CHR00023,T11_TRIAL_CHARACTERISTICS.csv,165,1218,199,13.546798,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00024,CHR00024,T11_TRIAL_CHARACTERISTICS.csv,5,1218,199,0.410509,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00025,CHR00025,T11_TRIAL_CHARACTERISTICS.csv,129,1218,199,10.591133,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00026,CHR00026,T11_TRIAL_CHARACTERISTICS.csv,199,1218,199,16.338259,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00027,CHR00027,T11_TRIAL_CHARACTERISTICS.csv,47,1218,199,3.858785,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00028,CHR00028,T11_TRIAL_CHARACTERISTICS.csv,440,1218,0,36.124795,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00029,CHR00029,T11_TRIAL_CHARACTERISTICS.csv,134,1218,0,11.001642,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00030,CHR00030,T11_TRIAL_CHARACTERISTICS.csv,644,1218,0,52.873563,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00031,CHR00031,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00032,CHR00032,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00033,CHR00033,T11_TRIAL_CHARACTERISTICS.csv,407,1218,2,33.415435,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00034,CHR00034,T11_TRIAL_CHARACTERISTICS.csv,2,1218,2,0.164204,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00035,CHR00035,T11_TRIAL_CHARACTERISTICS.csv,809,1218,2,66.420361,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00036,CHR00036,T11_TRIAL_CHARACTERISTICS.csv,74,1218,0,6.075534,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00037,CHR00037,T11_TRIAL_CHARACTERISTICS.csv,374,1218,0,30.706076,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00038,CHR00038,T11_TRIAL_CHARACTERISTICS.csv,770,1218,0,63.218391,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00039,CHR00039,T11_TRIAL_CHARACTERISTICS.csv,623,1218,0,51.149425,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00040,CHR00040,T11_TRIAL_CHARACTERISTICS.csv,595,1218,0,48.850575,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00041,CHR00041,T11_TRIAL_CHARACTERISTICS.csv,96,1218,102,7.881773,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00042,CHR00042,T11_TRIAL_CHARACTERISTICS.csv,1020,1218,102,83.743842,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00043,CHR00043,T11_TRIAL_CHARACTERISTICS.csv,102,1218,102,8.374384,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00044,CHR00044,T11_TRIAL_CHARACTERISTICS.csv,630,1218,102,51.724138,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00045,CHR00045,T11_TRIAL_CHARACTERISTICS.csv,102,1218,102,8.374384,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00046,CHR00046,T11_TRIAL_CHARACTERISTICS.csv,486,1218,102,39.901478,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00047,CHR00047,T11_TRIAL_CHARACTERISTICS.csv,698,1218,1,57.307061,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00048,CHR00048,T11_TRIAL_CHARACTERISTICS.csv,519,1218,1,42.610837,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00049,CHR00049,T11_TRIAL_CHARACTERISTICS.csv,1,1218,1,0.082102,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00050,CHR00050,T11_TRIAL_CHARACTERISTICS.csv,29,1218,199,2.380952,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00051,CHR00051,T11_TRIAL_CHARACTERISTICS.csv,590,1218,199,48.440066,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00052,CHR00052,T11_TRIAL_CHARACTERISTICS.csv,7,1218,199,0.574713,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00053,CHR00053,T11_TRIAL_CHARACTERISTICS.csv,47,1218,199,3.858785,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00054,CHR00054,T11_TRIAL_CHARACTERISTICS.csv,165,1218,199,13.546798,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00055,CHR00055,T11_TRIAL_CHARACTERISTICS.csv,5,1218,199,0.410509,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00056,CHR00056,T11_TRIAL_CHARACTERISTICS.csv,129,1218,199,10.591133,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00057,CHR00057,T11_TRIAL_CHARACTERISTICS.csv,199,1218,199,16.338259,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00058,CHR00058,T11_TRIAL_CHARACTERISTICS.csv,47,1218,199,3.858785,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00059,CHR00059,T11_TRIAL_CHARACTERISTICS.csv,440,1218,0,36.124795,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00060,CHR00060,T11_TRIAL_CHARACTERISTICS.csv,134,1218,0,11.001642,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00061,CHR00061,T11_TRIAL_CHARACTERISTICS.csv,644,1218,0,52.873563,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00062,CHR00062,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00063,CHR00063,T11_TRIAL_CHARACTERISTICS.csv,117,117,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00064,CHR00064,T11_TRIAL_CHARACTERISTICS.csv,37,117,0,31.623932,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00065,CHR00065,T11_TRIAL_CHARACTERISTICS.csv,80,117,0,68.376068,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00066,CHR00066,T11_TRIAL_CHARACTERISTICS.csv,7,117,0,5.982906,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00067,CHR00067,T11_TRIAL_CHARACTERISTICS.csv,38,117,0,32.478632,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00068,CHR00068,T11_TRIAL_CHARACTERISTICS.csv,72,117,0,61.538462,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00069,CHR00069,T11_TRIAL_CHARACTERISTICS.csv,74,117,0,63.247863,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00070,CHR00070,T11_TRIAL_CHARACTERISTICS.csv,43,117,0,36.752137,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00071,CHR00071,T11_TRIAL_CHARACTERISTICS.csv,12,117,8,10.25641,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00072,CHR00072,T11_TRIAL_CHARACTERISTICS.csv,97,117,8,82.905983,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00073,CHR00073,T11_TRIAL_CHARACTERISTICS.csv,8,117,8,6.837607,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00074,CHR00074,T11_TRIAL_CHARACTERISTICS.csv,60,117,8,51.282051,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00075,CHR00075,T11_TRIAL_CHARACTERISTICS.csv,8,117,8,6.837607,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00076,CHR00076,T11_TRIAL_CHARACTERISTICS.csv,49,117,8,41.880342,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00077,CHR00077,T11_TRIAL_CHARACTERISTICS.csv,75,117,0,64.102564,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00078,CHR00078,T11_TRIAL_CHARACTERISTICS.csv,42,117,0,35.897436,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00079,CHR00079,T11_TRIAL_CHARACTERISTICS.csv,1,117,17,0.854701,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00080,CHR00080,T11_TRIAL_CHARACTERISTICS.csv,51,117,17,43.589744,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00081,CHR00081,T11_TRIAL_CHARACTERISTICS.csv,2,117,17,1.709402,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00082,CHR00082,T11_TRIAL_CHARACTERISTICS.csv,10,117,17,8.547009,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00083,CHR00083,T11_TRIAL_CHARACTERISTICS.csv,18,117,17,15.384615,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00084,CHR00084,T11_TRIAL_CHARACTERISTICS.csv,13,117,17,11.111111,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00085,CHR00085,T11_TRIAL_CHARACTERISTICS.csv,17,117,17,14.529915,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00086,CHR00086,T11_TRIAL_CHARACTERISTICS.csv,5,117,17,4.273504,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00087,CHR00087,T11_TRIAL_CHARACTERISTICS.csv,44,117,0,37.606838,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00088,CHR00088,T11_TRIAL_CHARACTERISTICS.csv,11,117,0,9.401709,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00089,CHR00089,T11_TRIAL_CHARACTERISTICS.csv,62,117,0,52.991453,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00090,CHR00090,T11_TRIAL_CHARACTERISTICS.csv,117,117,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00091,CHR00091,T11_TRIAL_CHARACTERISTICS.csv,304,304,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00092,CHR00092,T11_TRIAL_CHARACTERISTICS.csv,74,304,1,24.342105,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00093,CHR00093,T11_TRIAL_CHARACTERISTICS.csv,1,304,1,0.328947,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00094,CHR00094,T11_TRIAL_CHARACTERISTICS.csv,229,304,1,75.328947,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00095,CHR00095,T11_TRIAL_CHARACTERISTICS.csv,17,304,0,5.592105,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00096,CHR00096,T11_TRIAL_CHARACTERISTICS.csv,155,304,0,50.986842,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00097,CHR00097,T11_TRIAL_CHARACTERISTICS.csv,132,304,0,43.421053,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00098,CHR00098,T11_TRIAL_CHARACTERISTICS.csv,157,304,0,51.644737,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00099,CHR00099,T11_TRIAL_CHARACTERISTICS.csv,147,304,0,48.355263,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00100,CHR00100,T11_TRIAL_CHARACTERISTICS.csv,42,304,26,13.815789,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00101,CHR00101,T11_TRIAL_CHARACTERISTICS.csv,236,304,26,77.631579,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00102,CHR00102,T11_TRIAL_CHARACTERISTICS.csv,26,304,26,8.552632,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00103,CHR00103,T11_TRIAL_CHARACTERISTICS.csv,153,304,26,50.328947,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00104,CHR00104,T11_TRIAL_CHARACTERISTICS.csv,26,304,26,8.552632,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00105,CHR00105,T11_TRIAL_CHARACTERISTICS.csv,125,304,26,41.118421,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00106,CHR00106,T11_TRIAL_CHARACTERISTICS.csv,165,304,0,54.276316,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00107,CHR00107,T11_TRIAL_CHARACTERISTICS.csv,139,304,0,45.723684,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00108,CHR00108,T11_TRIAL_CHARACTERISTICS.csv,8,304,57,2.631579,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00109,CHR00109,T11_TRIAL_CHARACTERISTICS.csv,145,304,57,47.697368,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00110,CHR00110,T11_TRIAL_CHARACTERISTICS.csv,10,304,57,3.289474,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00111,CHR00111,T11_TRIAL_CHARACTERISTICS.csv,28,304,57,9.210526,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00112,CHR00112,T11_TRIAL_CHARACTERISTICS.csv,2,304,57,0.657895,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00113,CHR00113,T11_TRIAL_CHARACTERISTICS.csv,42,304,57,13.815789,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00114,CHR00114,T11_TRIAL_CHARACTERISTICS.csv,57,304,57,18.75,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00115,CHR00115,T11_TRIAL_CHARACTERISTICS.csv,12,304,57,3.947368,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00116,CHR00116,T11_TRIAL_CHARACTERISTICS.csv,145,304,0,47.697368,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00117,CHR00117,T11_TRIAL_CHARACTERISTICS.csv,34,304,0,11.184211,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00118,CHR00118,T11_TRIAL_CHARACTERISTICS.csv,125,304,0,41.118421,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00119,CHR00119,T11_TRIAL_CHARACTERISTICS.csv,304,304,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00120,CHR00120,T11_TRIAL_CHARACTERISTICS.csv,184,184,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00121,CHR00121,T11_TRIAL_CHARACTERISTICS.csv,64,184,0,34.782609,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00122,CHR00122,T11_TRIAL_CHARACTERISTICS.csv,120,184,0,65.217391,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00123,CHR00123,T11_TRIAL_CHARACTERISTICS.csv,10,184,0,5.434783,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00124,CHR00124,T11_TRIAL_CHARACTERISTICS.csv,10,184,0,5.434783,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00125,CHR00125,T11_TRIAL_CHARACTERISTICS.csv,164,184,0,89.130435,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00126,CHR00126,T11_TRIAL_CHARACTERISTICS.csv,108,184,0,58.695652,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00127,CHR00127,T11_TRIAL_CHARACTERISTICS.csv,76,184,0,41.304348,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00128,CHR00128,T11_TRIAL_CHARACTERISTICS.csv,4,184,15,2.173913,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00129,CHR00129,T11_TRIAL_CHARACTERISTICS.csv,165,184,15,89.673913,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00130,CHR00130,T11_TRIAL_CHARACTERISTICS.csv,15,184,15,8.152174,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00131,CHR00131,T11_TRIAL_CHARACTERISTICS.csv,114,184,15,61.956522,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00132,CHR00132,T11_TRIAL_CHARACTERISTICS.csv,15,184,15,8.152174,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00133,CHR00133,T11_TRIAL_CHARACTERISTICS.csv,55,184,15,29.891304,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00134,CHR00134,T11_TRIAL_CHARACTERISTICS.csv,104,184,0,56.521739,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00135,CHR00135,T11_TRIAL_CHARACTERISTICS.csv,80,184,0,43.478261,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00136,CHR00136,T11_TRIAL_CHARACTERISTICS.csv,7,184,26,3.804348,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00137,CHR00137,T11_TRIAL_CHARACTERISTICS.csv,106,184,26,57.608696,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00138,CHR00138,T11_TRIAL_CHARACTERISTICS.csv,1,184,26,0.543478,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00139,CHR00139,T11_TRIAL_CHARACTERISTICS.csv,14,184,26,7.608696,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00140,CHR00140,T11_TRIAL_CHARACTERISTICS.csv,17,184,26,9.23913,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00141,CHR00141,T11_TRIAL_CHARACTERISTICS.csv,9,184,26,4.891304,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00142,CHR00142,T11_TRIAL_CHARACTERISTICS.csv,26,184,26,14.130435,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00143,CHR00143,T11_TRIAL_CHARACTERISTICS.csv,4,184,26,2.173913,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00144,CHR00144,T11_TRIAL_CHARACTERISTICS.csv,49,184,0,26.630435,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00145,CHR00145,T11_TRIAL_CHARACTERISTICS.csv,18,184,0,9.782609,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00146,CHR00146,T11_TRIAL_CHARACTERISTICS.csv,117,184,0,63.586957,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00147,CHR00147,T11_TRIAL_CHARACTERISTICS.csv,184,184,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00148,CHR00148,T11_TRIAL_CHARACTERISTICS.csv,359,359,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00149,CHR00149,T11_TRIAL_CHARACTERISTICS.csv,24,359,0,6.685237,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00150,CHR00150,T11_TRIAL_CHARACTERISTICS.csv,335,359,0,93.314763,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00151,CHR00151,T11_TRIAL_CHARACTERISTICS.csv,21,359,0,5.849582,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00152,CHR00152,T11_TRIAL_CHARACTERISTICS.csv,116,359,0,32.311978,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00153,CHR00153,T11_TRIAL_CHARACTERISTICS.csv,222,359,0,61.83844,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00154,CHR00154,T11_TRIAL_CHARACTERISTICS.csv,205,359,0,57.103064,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00155,CHR00155,T11_TRIAL_CHARACTERISTICS.csv,154,359,0,42.896936,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00156,CHR00156,T11_TRIAL_CHARACTERISTICS.csv,36,359,30,10.027855,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00157,CHR00157,T11_TRIAL_CHARACTERISTICS.csv,293,359,30,81.615599,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00158,CHR00158,T11_TRIAL_CHARACTERISTICS.csv,30,359,30,8.356546,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00159,CHR00159,T11_TRIAL_CHARACTERISTICS.csv,200,359,30,55.710306,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00160,CHR00160,T11_TRIAL_CHARACTERISTICS.csv,30,359,30,8.356546,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00161,CHR00161,T11_TRIAL_CHARACTERISTICS.csv,129,359,30,35.933148,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00162,CHR00162,T11_TRIAL_CHARACTERISTICS.csv,207,359,0,57.660167,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00163,CHR00163,T11_TRIAL_CHARACTERISTICS.csv,152,359,0,42.339833,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00164,CHR00164,T11_TRIAL_CHARACTERISTICS.csv,10,359,63,2.785515,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00165,CHR00165,T11_TRIAL_CHARACTERISTICS.csv,184,359,63,51.253482,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00166,CHR00166,T11_TRIAL_CHARACTERISTICS.csv,19,359,63,5.292479,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00167,CHR00167,T11_TRIAL_CHARACTERISTICS.csv,32,359,63,8.913649,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00168,CHR00168,T11_TRIAL_CHARACTERISTICS.csv,2,359,63,0.557103,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00169,CHR00169,T11_TRIAL_CHARACTERISTICS.csv,39,359,63,10.86351,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00170,CHR00170,T11_TRIAL_CHARACTERISTICS.csv,63,359,63,17.548747,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00171,CHR00171,T11_TRIAL_CHARACTERISTICS.csv,10,359,63,2.785515,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00172,CHR00172,T11_TRIAL_CHARACTERISTICS.csv,144,359,0,40.111421,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00173,CHR00173,T11_TRIAL_CHARACTERISTICS.csv,37,359,0,10.306407,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00174,CHR00174,T11_TRIAL_CHARACTERISTICS.csv,178,359,0,49.582173,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00175,CHR00175,T11_TRIAL_CHARACTERISTICS.csv,359,359,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00176,CHR00176,T11_TRIAL_CHARACTERISTICS.csv,335,335,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00177,CHR00177,T11_TRIAL_CHARACTERISTICS.csv,335,335,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00178,CHR00178,T11_TRIAL_CHARACTERISTICS.csv,21,335,0,6.268657,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00179,CHR00179,T11_TRIAL_CHARACTERISTICS.csv,113,335,0,33.731343,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00180,CHR00180,T11_TRIAL_CHARACTERISTICS.csv,201,335,0,60.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00181,CHR00181,T11_TRIAL_CHARACTERISTICS.csv,188,335,0,56.119403,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00182,CHR00182,T11_TRIAL_CHARACTERISTICS.csv,147,335,0,43.880597,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00183,CHR00183,T11_TRIAL_CHARACTERISTICS.csv,34,335,27,10.149254,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00184,CHR00184,T11_TRIAL_CHARACTERISTICS.csv,274,335,27,81.791045,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00185,CHR00185,T11_TRIAL_CHARACTERISTICS.csv,27,335,27,8.059701,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00186,CHR00186,T11_TRIAL_CHARACTERISTICS.csv,188,335,27,56.119403,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00187,CHR00187,T11_TRIAL_CHARACTERISTICS.csv,27,335,27,8.059701,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00188,CHR00188,T11_TRIAL_CHARACTERISTICS.csv,120,335,27,35.820896,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00189,CHR00189,T11_TRIAL_CHARACTERISTICS.csv,191,335,0,57.014925,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00190,CHR00190,T11_TRIAL_CHARACTERISTICS.csv,144,335,0,42.985075,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00191,CHR00191,T11_TRIAL_CHARACTERISTICS.csv,10,335,58,2.985075,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00192,CHR00192,T11_TRIAL_CHARACTERISTICS.csv,168,335,58,50.149254,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00193,CHR00193,T11_TRIAL_CHARACTERISTICS.csv,18,335,58,5.373134,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00194,CHR00194,T11_TRIAL_CHARACTERISTICS.csv,30,335,58,8.955224,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00195,CHR00195,T11_TRIAL_CHARACTERISTICS.csv,2,335,58,0.597015,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00196,CHR00196,T11_TRIAL_CHARACTERISTICS.csv,39,335,58,11.641791,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00197,CHR00197,T11_TRIAL_CHARACTERISTICS.csv,58,335,58,17.313433,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00198,CHR00198,T11_TRIAL_CHARACTERISTICS.csv,10,335,58,2.985075,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00199,CHR00199,T11_TRIAL_CHARACTERISTICS.csv,136,335,0,40.597015,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00200,CHR00200,T11_TRIAL_CHARACTERISTICS.csv,35,335,0,10.447761,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00201,CHR00201,T11_TRIAL_CHARACTERISTICS.csv,164,335,0,48.955224,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_CHR00202,CHR00202,T11_TRIAL_CHARACTERISTICS.csv,335,335,0,100.0,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL001_Raw_Agreement,REL001_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL001_Positive_Agreement,REL001_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL001_Negative_Agreement,REL001_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL001_Cohen_Kappa,REL001_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL001_Gwet_AC1,REL001_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL001_Gwet_AC2,REL001_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL002_Raw_Agreement,REL002_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL002_Positive_Agreement,REL002_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL002_Negative_Agreement,REL002_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL002_Cohen_Kappa,REL002_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL002_Gwet_AC1,REL002_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL002_Gwet_AC2,REL002_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL003_Raw_Agreement,REL003_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL003_Positive_Agreement,REL003_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL003_Negative_Agreement,REL003_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL003_Cohen_Kappa,REL003_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL003_Gwet_AC1,REL003_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL003_Gwet_AC2,REL003_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL004_Raw_Agreement,REL004_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL004_Positive_Agreement,REL004_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL004_Negative_Agreement,REL004_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL004_Cohen_Kappa,REL004_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL004_Gwet_AC1,REL004_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL004_Gwet_AC2,REL004_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL005_Raw_Agreement,REL005_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL005_Positive_Agreement,REL005_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL005_Negative_Agreement,REL005_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL005_Cohen_Kappa,REL005_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL005_Gwet_AC1,REL005_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL005_Gwet_AC2,REL005_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL006_Raw_Agreement,REL006_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL006_Positive_Agreement,REL006_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL006_Negative_Agreement,REL006_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL006_Cohen_Kappa,REL006_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL006_Gwet_AC1,REL006_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL006_Gwet_AC2,REL006_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL007_Raw_Agreement,REL007_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL007_Positive_Agreement,REL007_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL007_Negative_Agreement,REL007_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL007_Cohen_Kappa,REL007_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL007_Gwet_AC1,REL007_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL007_Gwet_AC2,REL007_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL008_Raw_Agreement,REL008_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL008_Positive_Agreement,REL008_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL008_Negative_Agreement,REL008_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL008_Cohen_Kappa,REL008_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL008_Gwet_AC1,REL008_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL008_Gwet_AC2,REL008_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL009_Raw_Agreement,REL009_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL009_Positive_Agreement,REL009_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL009_Negative_Agreement,REL009_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL009_Cohen_Kappa,REL009_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL009_Gwet_AC1,REL009_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL009_Gwet_AC2,REL009_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL010_Raw_Agreement,REL010_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL010_Positive_Agreement,REL010_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL010_Negative_Agreement,REL010_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL010_Cohen_Kappa,REL010_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL010_Gwet_AC1,REL010_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL010_Gwet_AC2,REL010_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL011_Raw_Agreement,REL011_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL011_Positive_Agreement,REL011_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL011_Negative_Agreement,REL011_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL011_Cohen_Kappa,REL011_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL011_Gwet_AC1,REL011_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL011_Gwet_AC2,REL011_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL012_Raw_Agreement,REL012_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL012_Positive_Agreement,REL012_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL012_Negative_Agreement,REL012_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL012_Cohen_Kappa,REL012_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL012_Gwet_AC1,REL012_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL012_Gwet_AC2,REL012_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL013_Raw_Agreement,REL013_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL013_Positive_Agreement,REL013_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL013_Negative_Agreement,REL013_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL013_Cohen_Kappa,REL013_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL013_Gwet_AC1,REL013_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL013_Gwet_AC2,REL013_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL014_Raw_Agreement,REL014_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL014_Positive_Agreement,REL014_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL014_Negative_Agreement,REL014_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL014_Cohen_Kappa,REL014_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL014_Gwet_AC1,REL014_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL014_Gwet_AC2,REL014_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL015_Raw_Agreement,REL015_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL015_Positive_Agreement,REL015_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL015_Negative_Agreement,REL015_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL015_Cohen_Kappa,REL015_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL015_Gwet_AC1,REL015_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL015_Gwet_AC2,REL015_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL016_Raw_Agreement,REL016_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL016_Positive_Agreement,REL016_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL016_Negative_Agreement,REL016_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL016_Cohen_Kappa,REL016_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL016_Gwet_AC1,REL016_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL016_Gwet_AC2,REL016_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL017_Raw_Agreement,REL017_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL017_Positive_Agreement,REL017_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL017_Negative_Agreement,REL017_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL017_Cohen_Kappa,REL017_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL017_Gwet_AC1,REL017_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL017_Gwet_AC2,REL017_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL018_Raw_Agreement,REL018_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL018_Positive_Agreement,REL018_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL018_Negative_Agreement,REL018_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL018_Cohen_Kappa,REL018_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL018_Gwet_AC1,REL018_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL018_Gwet_AC2,REL018_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL019_Raw_Agreement,REL019_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL019_Positive_Agreement,REL019_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL019_Negative_Agreement,REL019_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL019_Cohen_Kappa,REL019_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL019_Gwet_AC1,REL019_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL019_Gwet_AC2,REL019_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL020_Raw_Agreement,REL020_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,10854,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL020_Positive_Agreement,REL020_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,10854,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL020_Negative_Agreement,REL020_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,10854,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL020_Cohen_Kappa,REL020_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,10854,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL020_Gwet_AC1,REL020_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,10854,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL020_Gwet_AC2,REL020_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,10854,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL021_Raw_Agreement,REL021_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL021_Positive_Agreement,REL021_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL021_Negative_Agreement,REL021_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL021_Cohen_Kappa,REL021_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL021_Gwet_AC1,REL021_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL021_Gwet_AC2,REL021_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,1206,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL022_Raw_Agreement,REL022_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL022_Positive_Agreement,REL022_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL022_Negative_Agreement,REL022_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL022_Cohen_Kappa,REL022_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL022_Gwet_AC1,REL022_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL022_Gwet_AC2,REL022_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL023_Raw_Agreement,REL023_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL023_Positive_Agreement,REL023_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL023_Negative_Agreement,REL023_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL023_Cohen_Kappa,REL023_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL023_Gwet_AC1,REL023_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL023_Gwet_AC2,REL023_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL024_Raw_Agreement,REL024_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL024_Positive_Agreement,REL024_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL024_Negative_Agreement,REL024_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL024_Cohen_Kappa,REL024_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL024_Gwet_AC1,REL024_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL024_Gwet_AC2,REL024_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL025_Raw_Agreement,REL025_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL025_Positive_Agreement,REL025_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL025_Negative_Agreement,REL025_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL025_Cohen_Kappa,REL025_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL025_Gwet_AC1,REL025_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL025_Gwet_AC2,REL025_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL026_Raw_Agreement,REL026_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL026_Positive_Agreement,REL026_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL026_Negative_Agreement,REL026_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL026_Cohen_Kappa,REL026_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL026_Gwet_AC1,REL026_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL026_Gwet_AC2,REL026_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL027_Raw_Agreement,REL027_Raw_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL027_Positive_Agreement,REL027_Positive_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL027_Negative_Agreement,REL027_Negative_Agreement,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL027_Cohen_Kappa,REL027_Cohen_Kappa,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL027_Gwet_AC1,REL027_Gwet_AC1,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL027_Gwet_AC2,REL027_Gwet_AC2,T14_RELIABILITY_SUMMARY.csv,,7567,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_REL_WORKFLOW_QC_NEW12,REL_WORKFLOW_QC_NEW12,T14_RELIABILITY_SUMMARY.csv,309,366,,,PASS,0<=numerator<=denominator; 0<=unknown<=denominator; percentage reconciles
+DEN_GROUP_00483,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:AGE_FIELD_CONFLICT|,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00484,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:RECONCILED|65,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00485,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:RECONCILED|75,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00486,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:RECONCILED|80,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00487,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:RECONCILED|85,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00488,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:STRUCTURED|65,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00489,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:STRUCTURED|75,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00490,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:STRUCTURED|80,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00491,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:STRUCTURED|85,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00492,T02_AGE_ELIGIBILITY_THRESHOLDS.csv:STRUCTURED_UPPER_AGE_STATUS|,T02_AGE_ELIGIBILITY_THRESHOLDS.csv,1218,1218,,,PASS,age categories sum to the frozen denominator
+DEN_GROUP_00493,T05_GERIATRIC_DOMAIN_CODES.csv:care_setting_caregiver,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00494,T05_GERIATRIC_DOMAIN_CODES.csv:cognition_decision_capacity,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00495,T05_GERIATRIC_DOMAIN_CODES.csv:frailty_direct,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00496,T05_GERIATRIC_DOMAIN_CODES.csv:life_expectancy_advanced_illness,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00497,T05_GERIATRIC_DOMAIN_CODES.csv:mobility_adl_function,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00498,T05_GERIATRIC_DOMAIN_CODES.csv:multimorbidity_burden,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00499,T05_GERIATRIC_DOMAIN_CODES.csv:nutrition_malnutrition,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00500,T05_GERIATRIC_DOMAIN_CODES.csv:polypharmacy_medication_burden,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00501,T05_GERIATRIC_DOMAIN_CODES.csv:proxy_consent_pathway,T05_GERIATRIC_DOMAIN_CODES.csv,1218,1218,,,PASS,geriatric categories sum to the frozen denominator
+DEN_GROUP_00502,T06_GERIATRIC_COMPOSITES.csv:ALL_NINE_DOMAIN_ANY_PRESENT,T06_GERIATRIC_COMPOSITES.csv,1218,1218,,,PASS,composite categories sum to the frozen denominator
+DEN_GROUP_00503,T06_GERIATRIC_COMPOSITES.csv:PRIMARY_EIGHT_DOMAIN_ANY_PRESENT,T06_GERIATRIC_COMPOSITES.csv,1218,1218,,,PASS,composite categories sum to the frozen denominator
+DEN_GROUP_00504,T06_GERIATRIC_COMPOSITES.csv:PROXY_CONSENT_PATHWAY_PRESENT,T06_GERIATRIC_COMPOSITES.csv,1218,1218,,,PASS,composite categories sum to the frozen denominator
+DEN_GROUP_00505,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Adult_Relevant_Registry,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00506,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Country_Scope,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00507,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Device_Study,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00508,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Industry_Role,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00509,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Overall_Status,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00510,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Period,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00511,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Randomized,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00512,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Registration_Timing,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00513,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|Study_Type,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00514,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_HUMAN_SCOPE|US_Center,T11_TRIAL_CHARACTERISTICS.csv,117,117,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00515,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Adult_Relevant_Registry,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00516,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Country_Scope,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00517,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Device_Study,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00518,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Industry_Role,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00519,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Overall_Status,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00520,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Period,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00521,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Randomized,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00522,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Registration_Timing,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00523,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|Study_Type,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00524,T11_TRIAL_CHARACTERISTICS.csv:ADULT_RELEVANT_REGISTRY|US_Center,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00525,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Adult_Relevant_Registry,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00526,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Country_Scope,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00527,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Device_Study,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00528,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Industry_Role,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00529,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Overall_Status,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00530,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Period,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00531,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Randomized,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00532,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Registration_Timing,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00533,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|Study_Type,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00534,T11_TRIAL_CHARACTERISTICS.csv:ALL_INCLUDED|US_Center,T11_TRIAL_CHARACTERISTICS.csv,1218,1218,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00535,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Adult_Relevant_Registry,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00536,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Country_Scope,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00537,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Device_Study,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00538,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Industry_Role,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00539,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Overall_Status,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00540,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Period,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00541,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Randomized,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00542,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Registration_Timing,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00543,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|Study_Type,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00544,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_COMPARATIVE|US_Center,T11_TRIAL_CHARACTERISTICS.csv,359,359,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00545,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Adult_Relevant_Registry,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00546,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Country_Scope,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00547,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Device_Study,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00548,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Industry_Role,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00549,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Overall_Status,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00550,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Period,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00551,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Randomized,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00552,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Registration_Timing,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00553,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|Study_Type,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00554,T11_TRIAL_CHARACTERISTICS.csv:COS_ADULT_RANDOMIZED|US_Center,T11_TRIAL_CHARACTERISTICS.csv,335,335,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00555,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Adult_Relevant_Registry,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00556,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Country_Scope,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00557,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Device_Study,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00558,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Industry_Role,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00559,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Overall_Status,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00560,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Period,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00561,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Randomized,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00562,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Registration_Timing,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00563,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|Study_Type,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00564,T11_TRIAL_CHARACTERISTICS.csv:PI_PREVENTION|US_Center,T11_TRIAL_CHARACTERISTICS.csv,184,184,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00565,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Adult_Relevant_Registry,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00566,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Country_Scope,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00567,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Device_Study,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00568,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Industry_Role,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00569,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Overall_Status,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00570,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Period,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00571,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Randomized,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00572,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Registration_Timing,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00573,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|Study_Type,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00574,T11_TRIAL_CHARACTERISTICS.csv:VLU_ACTIVE_TREATMENT|US_Center,T11_TRIAL_CHARACTERISTICS.csv,304,304,,,PASS,characteristic categories sum to each population denominator
+DEN_GROUP_00575,T07_COREVEN_COVERAGE.csv:PRIMARY_ONLY:healing,T07_COREVEN_COVERAGE.csv,304,304,19,28.289474,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00576,T07_COREVEN_COVERAGE.csv:PRIMARY_ONLY:pain,T07_COREVEN_COVERAGE.csv,304,304,20,10.197368,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00577,T07_COREVEN_COVERAGE.csv:PRIMARY_ONLY:quality_of_life,T07_COREVEN_COVERAGE.csv,304,304,21,1.644737,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00578,T07_COREVEN_COVERAGE.csv:PRIMARY_ONLY:resource_use,T07_COREVEN_COVERAGE.csv,304,304,22,0.328947,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00579,T07_COREVEN_COVERAGE.csv:PRIMARY_ONLY:adverse_events,T07_COREVEN_COVERAGE.csv,304,304,18,14.802632,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00580,T07_COREVEN_COVERAGE.csv:ANY_PLANNED:healing,T07_COREVEN_COVERAGE.csv,304,304,36,42.434211,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00581,T07_COREVEN_COVERAGE.csv:ANY_PLANNED:pain,T07_COREVEN_COVERAGE.csv,304,304,25,37.828947,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00582,T07_COREVEN_COVERAGE.csv:ANY_PLANNED:quality_of_life,T07_COREVEN_COVERAGE.csv,304,304,40,25.986842,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00583,T07_COREVEN_COVERAGE.csv:ANY_PLANNED:resource_use,T07_COREVEN_COVERAGE.csv,304,304,58,5.592105,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00584,T07_COREVEN_COVERAGE.csv:ANY_PLANNED:adverse_events,T07_COREVEN_COVERAGE.csv,304,304,32,36.842105,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00585,T08_OUTPUTS_COVERAGE.csv:PRIMARY_ONLY:pressure_injury_occurrence,T08_OUTPUTS_COVERAGE.csv,184,184,22,18.478261,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00586,T08_OUTPUTS_COVERAGE.csv:PRIMARY_ONLY:precursor_signs_symptoms,T08_OUTPUTS_COVERAGE.csv,184,184,23,1.630435,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00587,T08_OUTPUTS_COVERAGE.csv:PRIMARY_ONLY:mobility,T08_OUTPUTS_COVERAGE.csv,184,184,23,8.695652,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00588,T08_OUTPUTS_COVERAGE.csv:PRIMARY_ONLY:acceptability_comfort,T08_OUTPUTS_COVERAGE.csv,184,184,23,3.26087,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00589,T08_OUTPUTS_COVERAGE.csv:PRIMARY_ONLY:adherence_compliance,T08_OUTPUTS_COVERAGE.csv,184,184,23,0.543478,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00590,T08_OUTPUTS_COVERAGE.csv:PRIMARY_ONLY:adverse_events_safety,T08_OUTPUTS_COVERAGE.csv,184,184,23,5.978261,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00591,T08_OUTPUTS_COVERAGE.csv:ANY_PLANNED:pressure_injury_occurrence,T08_OUTPUTS_COVERAGE.csv,184,184,29,21.73913,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00592,T08_OUTPUTS_COVERAGE.csv:ANY_PLANNED:precursor_signs_symptoms,T08_OUTPUTS_COVERAGE.csv,184,184,33,2.173913,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00593,T08_OUTPUTS_COVERAGE.csv:ANY_PLANNED:mobility,T08_OUTPUTS_COVERAGE.csv,184,184,28,15.76087,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00594,T08_OUTPUTS_COVERAGE.csv:ANY_PLANNED:acceptability_comfort,T08_OUTPUTS_COVERAGE.csv,184,184,28,12.5,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00595,T08_OUTPUTS_COVERAGE.csv:ANY_PLANNED:adherence_compliance,T08_OUTPUTS_COVERAGE.csv,184,184,33,2.173913,PASS,present + absent + unknown equals framework denominator
+DEN_GROUP_00596,T08_OUTPUTS_COVERAGE.csv:ANY_PLANNED:adverse_events_safety,T08_OUTPUTS_COVERAGE.csv,184,184,27,11.956522,PASS,present + absent + unknown equals framework denominator

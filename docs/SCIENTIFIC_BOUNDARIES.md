@@ -1,12 +1,10 @@
-# Scientific boundaries
+# Scientific interpretation boundaries
 
-- Eligibility accessibility is not actual enrollment.
-- The primary geriatric composite contains eight clinical domains; proxy consent is separate.
-- CoreVen is limited to VLU active treatment.
-- OUTPUTs is limited to pressure-injury prevention.
-- Planned outcome coverage is not a reported clinical outcome.
-- Structured and reconciled age remain separate.
-- Missing states remain separate.
-- Record History was not executed.
-- Reporter and unit-of-analysis fields are supplementary/exploratory.
-- No treatment-effect, causal, discrimination, actual-enrollment or global-representativeness claim is supported.
+- Age accessibility is protocol-level eligibility, not actual enrollment.
+- Geriatric domains are public registry documentation, not diagnoses or a validated frailty score.
+- CoreVen applies only to venous-leg-ulcer active-treatment records.
+- OUTPUTs applies only to pressure-injury-prevention records.
+- Primary-registered and any-registered outcome windows remain separate.
+- Missing, unknown, indeterminate and not-applicable states remain separate.
+- Registered outcomes are not reported clinical results.
+- Record History was not executed because no complete official version corpus was frozen.
