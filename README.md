@@ -7,9 +7,9 @@ A large-language-model-assisted computational workflow organized source-linked e
 The frozen input manifest retains historical source filenames where needed for exact provenance. Those filenames do not indicate the current governance status of the human-confirmed values.
 
 Repository: https://github.com/wang177777/chronic-wound-aging-registry-audit
-Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.2
-Version: v1.2.2
+Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.3
+Version: v1.2.3
 
-## v1.2.2 outcome-mapping alignment
+## v1.2.3 publication-table alignment
 
-The human-reviewed outcome mappings already distributed in the minimized outcome file and publication tables are now also reflected in `results/tables/T07_COREVEN_COVERAGE.csv` and `results/tables/T08_OUTPUTS_COVERAGE.csv`. Version v1.2.1 is preserved as historical release evidence and is not overwritten.
+The human-reviewed outcome mappings are consistently reflected in `results/tables/T07_COREVEN_COVERAGE.csv`, `results/tables/T08_OUTPUTS_COVERAGE.csv`, F04/F05 source data and publication Supplementary Table S15. Versions v1.2.1 and v1.2.2 are preserved as historical release evidence and are not overwritten.

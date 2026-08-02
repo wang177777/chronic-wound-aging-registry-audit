@@ -6,7 +6,7 @@ ClinicalTrials.gov source records are publicly accessible by NCT identifier. The
 
 ## Code availability
 
-Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the outcome-mapping-aligned version archived as release v1.2.2 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.2). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
+Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the publication-table-aligned version archived as release v1.2.3 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.3). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
 
 ## Author contributions
 

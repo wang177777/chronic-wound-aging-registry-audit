@@ -21,7 +21,13 @@ def test_current_release_status():
     import json
     state = json.loads((ROOT / "results/qa/FINAL_RELEASE_VALIDATION_STATE.json").read_text())
     assert state["current_release_status"] == "PUBLIC_RELEASE_VALIDATED"
-    assert state["release_version"] == "v1.2.2"
+    assert state["release_version"] == "v1.2.3"
     assert state["independent_validation_completed"] is True
     assert state["human_reviewed_outcome_table_alignment"] is True
     assert state["public_release_created"] is True
+    assert state["publication_s15_alignment"] is True
+
+def test_publication_s15_alignment():
+    data = rows(ROOT / "publication/Supplementary_Table_S15.csv")
+    assert len(data) == 4
+    assert {row["Framework"] for row in data} == {"COREVEN", "OUTPUTS"}

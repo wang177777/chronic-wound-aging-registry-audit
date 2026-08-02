@@ -35,8 +35,10 @@ state = __import__("json").loads(
 )
 if state.get("current_release_status") != "PUBLIC_RELEASE_VALIDATED":
     errors.append("final_release_validation_state")
-if state.get("release_version") != "v1.2.2" or not state.get("public_release_created"):
+if state.get("release_version") != "v1.2.3" or not state.get("public_release_created"):
     errors.append("public_release_binding_state")
+if not state.get("publication_s15_alignment"):
+    errors.append("publication_s15_alignment_state")
 if not state.get("human_reviewed_outcome_table_alignment"):
     errors.append("outcome_table_alignment_state")
 figure4 = {}
@@ -55,6 +57,22 @@ for name, framework in [("T07_COREVEN_COVERAGE.csv", "COREVEN"), ("T08_OUTPUTS_C
         )
         if not expected:
             errors.append(f"outcome_alignment:{name}:{row['Coverage_Window']}:{row['Domain']}")
+s15 = list(csv.DictReader((ROOT / "publication/Supplementary_Table_S15.csv").open(encoding="utf-8-sig", newline="")))
+expected_s15 = {
+    ("COREVEN", "PRIMARY_REGISTERED", "304", "132", "23", "0"),
+    ("COREVEN", "ANY_REGISTERED", "304", "132", "53", "6"),
+    ("OUTPUTS", "PRIMARY_REGISTERED", "184", "51", "22", "0"),
+    ("OUTPUTS", "ANY_REGISTERED", "184", "51", "26", "0"),
+}
+observed_s15 = {
+    (row["Framework"], row["Coverage_Window"], row["Applicable_Trials"],
+     row["Outcome_Rows_With_A_B_Mapping_Disagreement"],
+     row["Trial_Domain_Statuses_Changed_A_vs_B"],
+     row["Complete_Coverage_Statuses_Changed_A_vs_B"])
+    for row in s15
+}
+if observed_s15 != expected_s15:
+    errors.append("publication_s15_alignment")
 if list(ROOT.rglob("*.json")):
     raw = [p for p in ROOT.rglob("*.json") if "raw" in p.parts or "full_records" in p.parts]
     if raw:
@@ -67,6 +85,7 @@ print("VALIDATED_TABLES=15/15")
 print("VALIDATED_FIGURES=6/6")
 print("PUBLICATION_SUPPLEMENTARY_TABLES=23/23")
 print("HUMAN_REVIEWED_OUTCOME_ALIGNMENT=PASS")
+print("PUBLICATION_S15_ALIGNMENT=PASS")
 print("RAW_COMPLETE_JSON=0")
 print("STATUS=" + ("PASS" if not errors else "FAIL"))
 if errors:

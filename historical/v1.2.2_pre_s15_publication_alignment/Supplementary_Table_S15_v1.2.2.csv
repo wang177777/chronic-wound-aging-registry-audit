@@ -1,0 +1,3 @@
+Audit,Rows,Agreement_Rows,Disagreement_Rows,Raw_Agreement,Cohen_Kappa,Label_Source,Interpretation
+Geriatric-directionality classification,788,713,75,0.9048223350,0.8835674462,Independent human pre-adjudication labels,Supplementary task-specific human agreement audit
+CoreVen/OUTPUTs exact outcome mapping,100,90,10,0.9000000000,0.8805542284,Independent human pre-adjudication labels,Supplementary task-specific human agreement audit

@@ -1,3 +1,5 @@
-Audit,Rows,Agreement_Rows,Disagreement_Rows,Raw_Agreement,Cohen_Kappa,Label_Source,Interpretation
-Geriatric-directionality classification,788,713,75,0.9048223350,0.8835674462,Independent human pre-adjudication labels,Supplementary task-specific human agreement audit
-CoreVen/OUTPUTs exact outcome mapping,100,90,10,0.9000000000,0.8805542284,Independent human pre-adjudication labels,Supplementary task-specific human agreement audit
+Framework,Coverage_Window,Applicable_Trials,Outcome_Rows_With_A_B_Mapping_Disagreement,Trial_Domain_Statuses_Changed_A_vs_B,Complete_Coverage_Statuses_Changed_A_vs_B,Interpretation
+COREVEN,PRIMARY_REGISTERED,304,132,23,0,Scale A/B disagreement impact before expert/PI final resolution; final analyses use expert-confirmed and PI-adjudicated values.
+COREVEN,ANY_REGISTERED,304,132,53,6,Scale A/B disagreement impact before expert/PI final resolution; final analyses use expert-confirmed and PI-adjudicated values.
+OUTPUTS,PRIMARY_REGISTERED,184,51,22,0,Scale A/B disagreement impact before expert/PI final resolution; final analyses use expert-confirmed and PI-adjudicated values.
+OUTPUTS,ANY_REGISTERED,184,51,26,0,Scale A/B disagreement impact before expert/PI final resolution; final analyses use expert-confirmed and PI-adjudicated values.
