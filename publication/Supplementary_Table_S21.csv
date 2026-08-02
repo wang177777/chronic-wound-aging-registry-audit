@@ -1,0 +1,12 @@
+Framework,Published_consensus_term,Operational_domain,Applicable_population,Merge_split_or_omission,Operational_mapping_boundary
+CoreVen,Healing,healing,VLU active-treatment trials,"Parent domain for the relevant CoreVen outcome items; no domain omitted","Registered measure, description and time frame required to support mapping"
+CoreVen,Pain,pain,VLU active-treatment trials,"Parent domain for the relevant CoreVen outcome items; no domain omitted","Symptoms or procedures without pain assessment were not automatically mapped"
+CoreVen,Quality of life,quality_of_life,VLU active-treatment trials,"Parent domain for the relevant CoreVen outcome items; no domain omitted","Generic satisfaction or experience measures were not automatically mapped"
+CoreVen,Resource use,resource_use,VLU active-treatment trials,"Parent domain for the relevant CoreVen outcome items; no domain omitted","Treatment process alone was not treated as resource-use measurement"
+CoreVen,Adverse events,adverse_events,VLU active-treatment trials,"Parent domain for the relevant CoreVen outcome items; no domain omitted","Safety or adverse-event content had to be an explicitly registered outcome"
+OUTPUTs,Pressure ulcer occurrence,pressure_injury_occurrence,Pressure-injury-prevention trials,"One-to-one domain mapping; no domain omitted","Pressure ulcer is retained here as the published OUTPUTs term"
+OUTPUTs,Signs and symptoms of pressure ulcer development,precursor_signs_symptoms,Pressure-injury-prevention trials,"One-to-one domain mapping; no domain omitted","A precursor sign or symptom had to be explicitly registered"
+OUTPUTs,Mobility,mobility,Pressure-injury-prevention trials,"One-to-one domain mapping; no domain omitted","Mobility had to be measured rather than merely mentioned as context"
+OUTPUTs,Acceptability and comfort of intervention,acceptability_comfort,Pressure-injury-prevention trials,"One-to-one domain mapping; no domain omitted","Generic treatment exposure without acceptability or comfort measurement was not mapped"
+OUTPUTs,Adherence or compliance with intervention,adherence_compliance,Pressure-injury-prevention trials,"One-to-one domain mapping; no domain omitted","Protocol delivery alone was not treated as adherence measurement"
+OUTPUTs,Adverse events or safety,adverse_events_safety,Pressure-injury-prevention trials,"One-to-one domain mapping; no domain omitted","Safety content had to be an explicitly registered outcome"

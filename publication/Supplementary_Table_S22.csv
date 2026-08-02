@@ -1,0 +1,12 @@
+Row_Type,Conflict_type_or_example,NCT_ID,Count_or_structured_state,Reconciled_state,Exact_source_evidence,Interpretation
+SUMMARY,Structured more permissive; reconciled full text narrowed access,,8 records,,,One or more prespecified threshold cells changed YES to NO
+SUMMARY,Structured more restrictive; reconciled full text widened access,,1 record,,,One or more prespecified threshold cells changed NO to YES
+SUMMARY,Structured status unknown; full text resolved access,,12 records,,,Nine records resolved to YES at all four thresholds; two to NO at all four thresholds; one had a mixed threshold pattern
+SUMMARY,Conflict flag without change to four threshold categories,,11 records,,,The source conflict affected a different age field or did not alter 65/75/80/85 classification
+SUMMARY,Threshold-cell transition UNKNOWN to YES,,39 cells,,,Full eligibility text supplied affirmative age evidence absent from structured fields
+SUMMARY,Threshold-cell transition UNKNOWN to NO,,9 cells,,,Full eligibility text supplied a limiting age rule absent from structured fields
+SUMMARY,Threshold-cell transition YES to NO,,8 cells,,,Full eligibility text imposed a narrower limit than structured fields
+SUMMARY,Threshold-cell transition NO to YES,,3 cells,,,Full eligibility text established an eligible cohort not represented by the single structured range
+EXAMPLE,Structured more permissive; full text narrowed access,NCT00766272,Structured maximum 75 years,Age 75 NO,"6. Age 18-70",Free text narrowed the age-75 threshold while leaving older thresholds already ineligible
+EXAMPLE,Unknown structured ages resolved to ineligible,NCT01333358,"Minimum and maximum age blank; stdAges include CHILD|ADULT|OLDER_ADULT",Ages 65/75/80/85 NO,"Age 18 to 55 years",Full eligibility text resolved all four thresholds to NO
+EXAMPLE,Unknown structured ages resolved to a mixed threshold pattern,NCT02119078,"Minimum and maximum age blank; stdAges include CHILD|ADULT|OLDER_ADULT","Age 65 NO; ages 75/80/85 YES","age 70 or older at time of hospital admission",The lower age bound excluded 65 but supported access at the three older thresholds
