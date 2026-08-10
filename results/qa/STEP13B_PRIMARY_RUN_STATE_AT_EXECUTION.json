@@ -1,0 +1,14 @@
+{
+  "current_step": "13D-v12R4-R2",
+  "current_step_status": "CORRECTED_STEP13_PRIMARY_RERUN_COMPLETE_PENDING_INDEPENDENT_VALIDATION",
+  "execution_timestamp_utc": "2026-07-28T12:00:00Z",
+  "final_interpretation_authorized": false,
+  "full_json_hash_coverage": "1218/1218",
+  "included_nct_count": 1218,
+  "independent_validation_completed": false,
+  "manuscript_results_finalized": false,
+  "primary_analysis_allowed": false,
+  "primary_results_calculated": true,
+  "state_scope": "HISTORICAL_PRIMARY_RUN_EXECUTION_STATE_BEFORE_INDEPENDENT_VALIDATION",
+  "superseded_by": "results/qa/FINAL_RELEASE_VALIDATION_STATE.json"
+}

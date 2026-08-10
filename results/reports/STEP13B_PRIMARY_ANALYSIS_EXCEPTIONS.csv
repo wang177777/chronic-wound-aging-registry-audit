@@ -1,0 +1,7 @@
+Exception_ID,Severity,Module,Status,Description,Action
+EXC13B-001,MODERATE,GERIATRIC_CONTEXT,PRESPECIFIED_NOT_ESTIMABLE_FROM_FROZEN_MASTER,"The frozen master provides one final code per domain but no separate facilitating, restriction, assessment, outcome, or stratification context fields.",Report domain-level codes and composites only; no new text coding was performed.
+EXC13B-002,MODERATE,RECORD_HISTORY,NOT_EXECUTED_CONDITIONAL_MODULE,No official version-level Record History dataset was frozen; the guide is supporting audit only and non-analytic.,Remove Record History from current aims and result claims; a future governed amendment is required.
+EXC13B-003,MODERATE,PROTOCOL_SAP_VALIDATION,CONDITIONAL_PREREQUISITE_NOT_MET,Only 0 protocol/SAP files were explicitly manifested; 30 are required.,Conditional validation was not run.
+EXC13B-004,INFORMATIONAL,DUPLICATE_CLUSTER_SENSITIVITY,PRESPECIFIED_NOT_ESTIMABLE_FROM_FROZEN_MASTER,No confirmed duplicate-cluster variable exists in the locked master.,No record was removed or relabeled.
+EXC13B-005,INFORMATIONAL,ADULT_POPULATION,DUAL_OPERATIONALIZATION_REPORTED,The human-frozen adult-scope field contains many UNKNOWN values; registry stdAges supplies an independent explicit adult-relevant operationalization.,Both denominators are reported separately; neither is silently substituted.
+EXC13B-006,INFORMATIONAL,OUTCOME_SOURCE,PLANNED_OUTCOMES_ONLY,"All 7,633 frozen outcome rows are planned outcomes from frozen registry records.",Coverage is labeled planned outcome coverage and not reported-results coverage.

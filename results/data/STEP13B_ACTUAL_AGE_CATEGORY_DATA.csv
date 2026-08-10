@@ -1,0 +1,287 @@
+NCT_ID,Measure_Title,Category,Participant_Count,Selected_Group_ID,Unit,JSON_Pointer
+NCT00596752,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT00596752,"Age, Categorical",Between 18 and 65 years,323.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT00596752,"Age, Categorical",>=65 years,516.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT00660049,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT00660049,"Age, Categorical",Between 18 and 65 years,9.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT00660049,"Age, Categorical",>=65 years,3.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT00807664,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT00807664,"Age, Categorical",Between 18 and 65 years,43.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT00807664,"Age, Categorical",>=65 years,139.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT00832091,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT00832091,"Age, Categorical",Between 18 and 65 years,48.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT00832091,"Age, Categorical",>=65 years,24.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT00839098,"Age, Categorical",<=18 years,0.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT00839098,"Age, Categorical",Between 18 and 65 years,23.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT00839098,"Age, Categorical",>=65 years,5.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT00847002,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT00847002,"Age, Categorical",Between 18 and 65 years,6.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT00847002,"Age, Categorical",>=65 years,2.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT00847665,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT00847665,"Age, Categorical",Between 18 and 65 years,170.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT00847665,"Age, Categorical",>=65 years,160.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT00878644,"Age, Customized",< 2 yr,149.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/0
+NCT00878644,"Age, Customized",2 - <12 yr,93.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/1
+NCT00878644,"Age, Customized",12 - 17 yr,53.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/2
+NCT00880087,"Age, Customized",< 2 yr,201.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/0
+NCT00880087,"Age, Customized",2 - <12 yr,83.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/1
+NCT00880087,"Age, Customized",12 - 17 yr,45.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/2
+NCT00971048,"Age, Categorical",<=18 years,0.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT00971048,"Age, Categorical",Between 18 and 65 years,49.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT00971048,"Age, Categorical",>=65 years,39.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01036438,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/0
+NCT01036438,"Age, Categorical",Between 18 and 65 years,89.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/1
+NCT01036438,"Age, Categorical",>=65 years,112.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/2
+NCT01079299,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01079299,"Age, Categorical",Between 18 and 65 years,24.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01079299,"Age, Categorical",>=65 years,28.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01090076,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01090076,"Age, Categorical",Between 18 and 65 years,5.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01090076,"Age, Categorical",>=65 years,21.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01107197,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01107197,"Age, Categorical",Between 18 and 65 years,9.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01107197,"Age, Categorical",>=65 years,148.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01201759,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01201759,"Age, Categorical",Between 18 and 65 years,18.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01201759,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01208220,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01208220,"Age, Categorical",Between 18 and 65 years,2.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01208220,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01214811,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01214811,"Age, Categorical",Between 18 and 65 years,19.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01214811,"Age, Categorical",>=65 years,8.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01217047,"Age, Categorical",<=18 years,0.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01217047,"Age, Categorical",Between 18 and 65 years,10.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01217047,"Age, Categorical",>=65 years,0.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01255631,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01255631,"Age, Categorical",Between 18 and 65 years,7.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01255631,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01396837,"Age, Customized",NOT_PUBLICLY_SPECIFIED,20.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01426555,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01426555,"Age, Categorical",Between 18 and 65 years,70.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01426555,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01433159,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01433159,"Age, Categorical",Between 18 and 65 years,10.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01433159,"Age, Categorical",>=65 years,9.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01439581,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01439581,"Age, Categorical",Between 18 and 65 years,281.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01439581,"Age, Categorical",>=65 years,147.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01440452,"Age, Categorical",<=18 years,0.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01440452,"Age, Categorical",Between 18 and 65 years,25.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01440452,"Age, Categorical",>=65 years,0.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01454570,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01454570,"Age, Categorical",Between 18 and 65 years,10.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01454570,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01528293,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01528293,"Age, Categorical",Between 18 and 65 years,1.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01528293,"Age, Categorical",>=65 years,1.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01539980,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01539980,"Age, Categorical",Between 18 and 65 years,30.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01539980,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01656889,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01656889,"Age, Categorical",Between 18 and 65 years,274.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01656889,"Age, Categorical",>=65 years,147.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01737762,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01737762,"Age, Categorical",Between 18 and 65 years,81.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01737762,"Age, Categorical",>=65 years,58.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01811732,"Age, Customized",NOT_PUBLICLY_SPECIFIED,618.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/0
+NCT01811732,"Age, Customized",NOT_PUBLICLY_SPECIFIED,42.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/1/categories/0
+NCT01811732,"Age, Customized",NOT_PUBLICLY_SPECIFIED,17.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/2/categories/0
+NCT01966380,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT01966380,"Age, Categorical",Between 18 and 65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT01966380,"Age, Categorical",>=65 years,5.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT01984684,"Age, Customized",NOT_PUBLICLY_SPECIFIED,696.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/0
+NCT01984684,"Age, Customized",NOT_PUBLICLY_SPECIFIED,154.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/1/categories/0
+NCT01984684,"Age, Customized",NOT_PUBLICLY_SPECIFIED,66.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/2/categories/0
+NCT02005692,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/0
+NCT02005692,"Age, Categorical",Between 18 and 65 years,30.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/1
+NCT02005692,"Age, Categorical",>=65 years,33.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/1/classes/0/categories/2
+NCT02079311,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02079311,"Age, Categorical",Between 18 and 65 years,55.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02079311,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02139436,"Age, Categorical",<=18 years,0.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02139436,"Age, Categorical",Between 18 and 65 years,68.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02139436,"Age, Categorical",>=65 years,0.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02144610,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02144610,"Age, Categorical",Between 18 and 65 years,18.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02144610,"Age, Categorical",>=65 years,28.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02148302,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02148302,"Age, Categorical",Between 18 and 65 years,78.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02148302,"Age, Categorical",>=65 years,45.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02154087,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02154087,"Age, Categorical",Between 18 and 65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02154087,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02167815,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02167815,"Age, Categorical",Between 18 and 65 years,15.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02167815,"Age, Categorical",>=65 years,15.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02224638,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02224638,"Age, Categorical",Between 18 and 65 years,3.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02224638,"Age, Categorical",>=65 years,18.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02248740,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02248740,"Age, Categorical",Between 18 and 65 years,36.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02248740,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02284373,"Age, Categorical",<=18 years,0.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02284373,"Age, Categorical",Between 18 and 65 years,14.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02284373,"Age, Categorical",>=65 years,22.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02339233,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02339233,"Age, Categorical",Between 18 and 65 years,8.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02339233,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02577900,"Age, Categorical",<=18 years,0.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02577900,"Age, Categorical",Between 18 and 65 years,19.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02577900,"Age, Categorical",>=65 years,12.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02600611,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02600611,"Age, Categorical",Between 18 and 65 years,480.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02600611,"Age, Categorical",>=65 years,118.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02607618,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02607618,"Age, Categorical",Between 18 and 65 years,490.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02607618,"Age, Categorical",>=65 years,110.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02622295,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02622295,"Age, Categorical",Between 18 and 65 years,71.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02622295,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02650440,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02650440,"Age, Categorical",Between 18 and 65 years,14.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02650440,"Age, Categorical",>=65 years,4.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02682069,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02682069,"Age, Categorical",Between 18 and 65 years,30.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02682069,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02701101,"Age, Customized",NOT_PUBLICLY_SPECIFIED,182.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02724449,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02724449,"Age, Categorical",Between 18 and 65 years,6.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02724449,"Age, Categorical",>=65 years,10.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02811965,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02811965,"Age, Categorical",Between 18 and 65 years,20.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02811965,"Age, Categorical",>=65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02863263,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02863263,"Age, Categorical",Between 18 and 65 years,1.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02863263,"Age, Categorical",>=65 years,4.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02865343,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02865343,"Age, Categorical",Between 18 and 65 years,11.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02865343,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02904200,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02904200,"Age, Categorical",Between 18 and 65 years,2.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02904200,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02921750,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02921750,"Age, Categorical",Between 18 and 65 years,88.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02921750,"Age, Categorical",>=65 years,157.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02929056,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02929056,"Age, Categorical",Between 18 and 65 years,1.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02929056,"Age, Categorical",>=65 years,1.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02946021,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT02946021,"Age, Categorical",Between 18 and 65 years,4.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT02946021,"Age, Categorical",>=65 years,7.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT02963649,End-stage renal disease,NOT_PUBLICLY_SPECIFIED,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/9/classes/0/categories/0
+NCT03011099,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03011099,"Age, Categorical",Between 18 and 65 years,8.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03011099,"Age, Categorical",>=65 years,1.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03020446,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03020446,"Age, Categorical",Between 18 and 65 years,2.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03020446,"Age, Categorical",>=65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03077165,"Age, Categorical",<=18 years,0.0,BG006,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03077165,"Age, Categorical",Between 18 and 65 years,57.0,BG006,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03077165,"Age, Categorical",>=65 years,64.0,BG006,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03121144,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03121144,"Age, Categorical",Between 18 and 65 years,26.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03121144,"Age, Categorical",>=65 years,8.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03267212,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03267212,"Age, Categorical",Between 18 and 65 years,14.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03267212,"Age, Categorical",>=65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03283787,"Age, Categorical",<=18 years,0.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03283787,"Age, Categorical",Between 18 and 65 years,25.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03283787,"Age, Categorical",>=65 years,35.0,BG003,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03298113,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03298113,"Age, Categorical",Between 18 and 65 years,2.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03298113,"Age, Categorical",>=65 years,18.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03317288,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03317288,"Age, Categorical",Between 18 and 65 years,15.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03317288,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03345576,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03345576,"Age, Categorical",Between 18 and 65 years,12.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03345576,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03390504,"Age, Categorical",<=18 years,0.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03390504,"Age, Categorical",Between 18 and 65 years,245.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03390504,"Age, Categorical",>=65 years,384.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03408639,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03408639,"Age, Categorical",Between 18 and 65 years,129.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03408639,"Age, Categorical",>=65 years,27.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03412929,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03412929,"Age, Categorical",Between 18 and 65 years,4.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03412929,"Age, Categorical",>=65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03495986,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03495986,"Age, Categorical",Between 18 and 65 years,26.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03495986,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03522714,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03522714,"Age, Categorical",Between 18 and 65 years,80.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03522714,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03621592,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03621592,"Age, Categorical",Between 18 and 65 years,22.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03621592,"Age, Categorical",>=65 years,9.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03662997,"Age, Categorical",<=18 years,0.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03662997,"Age, Categorical",Between 18 and 65 years,26.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03662997,"Age, Categorical",>=65 years,12.0,BG004,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03892746,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03892746,"Age, Categorical",Between 18 and 65 years,35.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03892746,"Age, Categorical",>=65 years,6.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03922802,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03922802,"Age, Categorical",Between 18 and 65 years,9.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03922802,"Age, Categorical",>=65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT03999515,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT03999515,"Age, Categorical",Between 18 and 65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT03999515,"Age, Categorical",>=65 years,2.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04018924,"Age, Customized",< 49 years,7.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04018924,"Age, Customized",50 < years < 59,12.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04018924,"Age, Customized",60 < years < 69,16.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04018924,"Age, Customized",70 < years < 79,28.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/3
+NCT04018924,"Age, Customized",80 < years <89,26.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/4
+NCT04018924,"Age, Customized",> 90 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/5
+NCT04046120,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04046120,"Age, Categorical",Between 18 and 65 years,17.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04046120,"Age, Categorical",>=65 years,85.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04136951,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04136951,"Age, Categorical",Between 18 and 65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04136951,"Age, Categorical",>=65 years,1915.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04240574,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04240574,"Age, Categorical",Between 18 and 65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04240574,"Age, Categorical",>=65 years,1.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04241250,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04241250,"Age, Categorical",Between 18 and 65 years,4.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04241250,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04577183,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04577183,"Age, Categorical",Between 18 and 65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04577183,"Age, Categorical",>=65 years,13.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04689009,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04689009,"Age, Categorical",Between 18 and 65 years,17.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04689009,"Age, Categorical",>=65 years,66.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04854057,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04854057,"Age, Categorical",Between 18 and 65 years,3.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04854057,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT04934137,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT04934137,"Age, Categorical",Between 18 and 65 years,26.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT04934137,"Age, Categorical",>=65 years,4.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT05149989,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT05149989,"Age, Categorical",Between 18 and 65 years,50.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT05149989,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT05194969,Hurley Stage,Hurley I,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/7/classes/0/categories/0
+NCT05194969,Hurley Stage,Hurley II,48.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/7/classes/0/categories/1
+NCT05194969,Hurley Stage,Hurley III,25.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/7/classes/0/categories/2
+NCT05194969,Hurley Stage,Hurley Unreported,1.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/7/classes/0/categories/3
+NCT05354206,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT05354206,"Age, Categorical",Between 18 and 65 years,20.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT05354206,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT05462912,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT05462912,"Age, Categorical",Between 18 and 65 years,60.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT05462912,"Age, Categorical",>=65 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT05873257,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT05873257,"Age, Categorical",Between 18 and 65 years,10.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT05873257,"Age, Categorical",>=65 years,40.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT05892341,"Age, Customized",NOT_PUBLICLY_SPECIFIED,80.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT05892341,"Age, Customized",NOT_PUBLICLY_SPECIFIED,85.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/1/categories/0
+NCT05892341,"Age, Customized",NOT_PUBLICLY_SPECIFIED,38.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/2/categories/0
+NCT06161480,"Age, Categorical",<=18 years,0.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT06161480,"Age, Categorical",Between 18 and 65 years,28.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT06161480,"Age, Categorical",>=65 years,21.0,BG000,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT06831760,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT06831760,"Age, Categorical",Between 18 and 65 years,60.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT06831760,"Age, Categorical",>=65 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2
+NCT06853210,"Age, Categorical",<=18 years,0.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/0
+NCT06853210,"Age, Categorical",Between 18 and 65 years,41.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/1
+NCT06853210,"Age, Categorical",>=65 years,39.0,BG002,Participants,/resultsSection/baselineCharacteristicsModule/measures/0/classes/0/categories/2

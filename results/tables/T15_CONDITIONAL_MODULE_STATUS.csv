@@ -1,0 +1,4 @@
+Conditional_Module,Status,Records_With_Results,Records_With_Interpretable_Age_Categories,Records_With_Explicit_Older_Category,Extracted_Category_Rows,Denominator,Unknown_Count,Notes,Execution_Status,Aims_Disposition,Reason_Code,Official_Version_Data_Coverage,Guide_Document_Classification,Current_Analysis_Impact,Future_Amendment_Required
+ACTUAL_AGE_CATEGORIES,RUN,207,96,86,286,1218,1122,Exact registered categories only; no threshold is inferred from a mean.,,,,,,,
+PROTOCOL_SAP_VALIDATION,NOT_RUN,,,,0,30,30,Fewer than 30 protocol/SAP files are explicitly frozen in the analytical input manifest.,,,,,,,
+RECORD_HISTORY_AUDIT,NOT_EXECUTED_CONDITIONAL_MODULE,,,,0,1218,1218,No version-level official history dataset was frozen. The guide is supporting audit only and does not enter analytical inputs.,NOT_EXECUTED_CONDITIONAL_MODULE,REMOVE_FROM_CURRENT_AIMS,NO_VERSION_LEVEL_OFFICIAL_HISTORY_DATASET_FROZEN,0/1218,SUPPORTING_AUDIT_ONLY_NON_ANALYTIC,NONE,YES

@@ -1,0 +1,12 @@
+Dimension,Category,Posted_results_N,Posted_results_Denominator,Posted_results_Percent,Full_cohort_N,Full_cohort_Denominator,Full_cohort_Percent
+First-post period,2008-2016,133,207,64.25,440,1218,36.12
+First-post period,2017-2018,33,207,15.94,134,1218,11.00
+First-post period,2019-2025,41,207,19.81,644,1218,52.87
+Completion status,Completed,153,207,73.91,590,1218,48.44
+Completion status,Not completed,54,207,26.09,628,1218,51.56
+Disease group,VLU active treatment,55,207,26.57,304,1218,24.96
+Disease group,VLU recurrence prevention,3,207,1.45,25,1218,2.05
+Disease group,Pressure-injury prevention,30,207,14.49,184,1218,15.11
+Disease group,Pressure-injury treatment,72,207,34.78,517,1218,42.45
+Disease group,Explicit mixed wound,47,207,22.71,186,1218,15.27
+Disease group,Other governed mixed wound,0,207,0.00,2,1218,0.16

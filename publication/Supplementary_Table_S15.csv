@@ -1,0 +1,5 @@
+Framework,Coverage_Window,Applicable_Trials,Outcome_Rows_With_A_B_Mapping_Disagreement,Trial_Domain_Statuses_Changed_A_vs_B,Complete_Coverage_Statuses_Changed_A_vs_B,Interpretation
+COREVEN,PRIMARY_REGISTERED,304,132,23,0,Scale A/B disagreement impact before expert/PI final resolution; final analyses use expert-confirmed and PI-adjudicated values.
+COREVEN,ANY_REGISTERED,304,132,53,6,Scale A/B disagreement impact before expert/PI final resolution; final analyses use expert-confirmed and PI-adjudicated values.
+OUTPUTS,PRIMARY_REGISTERED,184,51,22,0,Scale A/B disagreement impact before expert/PI final resolution; final analyses use expert-confirmed and PI-adjudicated values.
+OUTPUTS,ANY_REGISTERED,184,51,26,0,Scale A/B disagreement impact before expert/PI final resolution; final analyses use expert-confirmed and PI-adjudicated values.
