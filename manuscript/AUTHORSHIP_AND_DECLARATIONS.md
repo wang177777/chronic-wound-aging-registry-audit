@@ -6,7 +6,7 @@ ClinicalTrials.gov source records are publicly accessible by NCT identifier. The
 
 ## Code availability
 
-Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the authorship-and-correspondence-metadata-aligned version archived as release v1.2.5 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.5). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
+Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.6 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.6). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
 
 ## Author contributions
 
@@ -14,7 +14,7 @@ G.W.: Conceptualization, methodology, formal analysis, investigation, project ad
 
 ## Acknowledgements
 
-The authors acknowledge support to X.Y. from the Special Program for Clinical and Translational Medical Research of the Chinese Academy of Medical Sciences (2025-12M-C&T-B-067), the National Clinical Key Specialty Construction Project (23003), the Plastic Medicine Research Fund of the Chinese Academy of Medical Sciences (2024-ZX-1-01), and the Special Research Fund for Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College (YSZ2024CG007), and support to C.W. from the Beijing Natural Science Foundation (L256048). No other funding was reported.
+The authors thank Weiwei Chen for independent verification of the analysis and supporting materials. The authors acknowledge support to X.Y. from the Special Program for Clinical and Translational Medical Research of the Chinese Academy of Medical Sciences (2025-12M-C&T-B-067), the National Clinical Key Specialty Construction Project (23003), the Plastic Medicine Research Fund of the Chinese Academy of Medical Sciences (2024-ZX-1-01), and the Special Research Fund for Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College (YSZ2024CG007), and support to C.W. from the Beijing Natural Science Foundation (L256048). These funds were used only for student research-assistant personnel costs. The funders had no other role in study design, data acquisition, analysis, interpretation, manuscript preparation, or the decision to submit. No other funding was reported.
 
 ## Competing interests
 
@@ -22,4 +22,4 @@ The authors declare no competing interests.
 
 ## Ethics statement
 
-This study used legally obtained, publicly available, non-identifiable aggregate study-registry information and published literature. It involved no interaction or intervention with participants and no access to individual-level or identifiable private data. On 25 July 2026, research lead Guoyong Wang recorded a public-data exemption determination under Article 32(1) of the 2023 Chinese *Measures for Ethical Review of Life Science and Medical Research Involving Humans*. Ethics committee approval and informed consent were not required; the reference number is not applicable, and no reference-numbered institutional ethics-committee letter is claimed. Any use of non-public, identifiable or participant-level data would require a new determination.
+This study analyzed only legally obtained, publicly available, non-identifiable aggregate records from ClinicalTrials.gov and published literature. It involved no participant contact, intervention, new participant data collection, individual-level data or identifiable private information and did not constitute human-participant research. Ethics approval and informed consent were not applicable.
