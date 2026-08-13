@@ -168,7 +168,7 @@ ClinicalTrials.gov source records are publicly accessible by NCT identifier. The
 
 ## Code availability
 
-Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.8 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.8). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
+Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.9 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.9). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
 
 ## Author contributions
 
@@ -195,7 +195,7 @@ This study analyzed only legally obtained, publicly available, non-identifiable 
 
 ## Figure legends
 
-**Figure 1 | Cohort identification and adjudication flow.** Non-additive query-hit counts from the frozen AACT and ClinicalTrials.gov API paths were deduplicated to 34,972 unique NCT identifiers. The prespecified 120-record reliability sample contained 12 included and 108 excluded records; the remaining 34,852-record full-screening component contained 1,194 included and 33,658 excluded records before the targeted sweep. A 500-record audit comprised 300 probability-sampled and 200 boundary-enriched exclusions and identified one missed eligible record in the enriched stratum. A prespecified rule-based scan of all 33,658 full-screening-component exclusions then flagged 915 records for human and expert review; it was not a complete manual reread of every exclusion. Human review and principal-investigator adjudication added 12 eligible records, giving 1,218 included and 33,754 excluded records (108 + 33,646). CoreVen and OUTPUTs were applied only to their prespecified condition-specific populations.
+**Figure 1 | Cohort identification and adjudication flow.** Non-additive query-hit counts from the frozen AACT and ClinicalTrials.gov API paths were deduplicated to 34,972 unique NCT identifiers. The prespecified 120-record reliability sample contained 12 included and 108 excluded records; the remaining 34,852-record full-screening component contained 1,194 included and 33,658 excluded records before the targeted sweep. A 500-record audit comprised 300 probability-sampled and 200 boundary-enriched exclusions and identified one missed eligible record in the enriched stratum. Because the audit included a boundary-enriched stratum, 1/500 was not interpreted as a population false-negative estimate. A prespecified rule-based scan of the 33,658 full-screening-component exclusions flagged 915 records for human and expert review; human review and principal-investigator adjudication added 12 eligible records, giving 1,218 included and 33,754 excluded records (108 + 33,646).
 
 **Figure 2 | Structured and reconciled age accessibility.** **a**, Accessibility at four prespecified chronological ages using structured registry fields and separately reconciled full-eligibility evidence. **b**, Structured maximum-age-field status. Percentages use all 1,218 included records; indeterminate counts were preserved. Protocol eligibility is not evidence of actual enrollment or representation.
 

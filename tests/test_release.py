@@ -21,7 +21,7 @@ def test_current_release_status():
     import json
     state = json.loads((ROOT / "results/qa/FINAL_RELEASE_VALIDATION_STATE.json").read_text())
     assert state["current_release_status"] == "PUBLIC_RELEASE_VALIDATED"
-    assert state["release_version"] == "v1.2.8"
+    assert state["release_version"] == "v1.2.9"
     assert state["independent_validation_completed"] is True
     assert state["human_reviewed_outcome_table_alignment"] is True
     assert state["public_release_created"] is True
@@ -29,5 +29,21 @@ def test_current_release_status():
 
 def test_publication_s15_alignment():
     data = rows(ROOT / "publication/Supplementary_Table_S15.csv")
-    assert len(data) == 4
-    assert {row["Framework"] for row in data} == {"COREVEN", "OUTPUTS"}
+    assert len(data) == 2
+    assert {row["Audit"] for row in data} == {
+        "Geriatric-directionality classification",
+        "CoreVen/OUTPUTs exact outcome mapping",
+    }
+    assert {row["Raw_Agreement"] for row in data} == {"0.9048223350", "0.9000000000"}
+
+def test_publication_tables_are_explicit_and_aligned():
+    with (ROOT / "publication/Table1.csv").open(encoding="utf-8-sig", newline="") as handle:
+        table1 = list(csv.reader(handle))
+    with (ROOT / "publication/Supplementary_Table_S2.csv").open(encoding="utf-8-sig", newline="") as handle:
+        s2 = list(csv.reader(handle))
+    assert table1 == s2
+    assert table1[0] == ["Section", "Characteristic", "n/N (%) or summary", "Unknown n"]
+    publication_tables = [ROOT / "publication/Table1.csv"] + sorted((ROOT / "publication").glob("Supplementary_Table_S*.csv"))
+    for path in publication_tables:
+        with path.open(encoding="utf-8-sig", newline="") as handle:
+            assert all(value != "" for row in csv.reader(handle) for value in row)

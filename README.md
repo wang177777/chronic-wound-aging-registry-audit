@@ -7,9 +7,9 @@ The complete age-corrected analysis was rerun in a fresh detached worktree; 36/3
 The frozen input manifest retains historical source filenames where needed for exact provenance. Those filenames do not indicate the current governance status of the human-confirmed values.
 
 Repository: https://github.com/wang177777/chronic-wound-aging-registry-audit
-Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.8
-Version: v1.2.8
+Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.9
+Version: v1.2.9
 
-## v1.2.8 submission-format alignment
+## v1.2.9 figure and publication-table alignment
 
-Version v1.2.8 is the current manuscript-aligned public version. It retains the concise AI and human-verification disclosure, all-author accountability and non-human-participant-research ethics statement, and formats the separate Funding statement using author-specific disclosure language and bracketed grant identifiers. Figure 1 rendering was regenerated with a safe canvas margin; its source data and scientific content are unchanged. No analytical input, scientific result, table, figure source data or analysis code changed. Earlier versions are superseded but retained for provenance.
+Version v1.2.9 is the current manuscript-aligned public version. It retains the concise AI and human-verification disclosure, all-author accountability, non-human-participant-research ethics statement and formatted Funding statement. Publication tables now use explicit `NA` values for fields that are not applicable or not calculable, the redundant empty Notes column was removed from Table 1 and Supplementary Table S2, and Supplementary Table S15 was aligned with the independent human agreement audits already reported in the manuscript and supplementary document. Figure legends were clarified without changing figure source data. No analytical input, validated scientific result or analysis code changed. Earlier versions are superseded but retained for provenance.

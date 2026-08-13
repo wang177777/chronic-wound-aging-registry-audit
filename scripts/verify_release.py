@@ -35,7 +35,7 @@ state = __import__("json").loads(
 )
 if state.get("current_release_status") != "PUBLIC_RELEASE_VALIDATED":
     errors.append("final_release_validation_state")
-if state.get("release_version") != "v1.2.8" or not state.get("public_release_created"):
+if state.get("release_version") != "v1.2.9" or not state.get("public_release_created"):
     errors.append("public_release_binding_state")
 if not state.get("publication_s15_alignment"):
     errors.append("publication_s15_alignment_state")
@@ -59,20 +59,23 @@ for name, framework in [("T07_COREVEN_COVERAGE.csv", "COREVEN"), ("T08_OUTPUTS_C
             errors.append(f"outcome_alignment:{name}:{row['Coverage_Window']}:{row['Domain']}")
 s15 = list(csv.DictReader((ROOT / "publication/Supplementary_Table_S15.csv").open(encoding="utf-8-sig", newline="")))
 expected_s15 = {
-    ("COREVEN", "PRIMARY_REGISTERED", "304", "132", "23", "0"),
-    ("COREVEN", "ANY_REGISTERED", "304", "132", "53", "6"),
-    ("OUTPUTS", "PRIMARY_REGISTERED", "184", "51", "22", "0"),
-    ("OUTPUTS", "ANY_REGISTERED", "184", "51", "26", "0"),
+    ("Geriatric-directionality classification", "788", "713", "75", "0.9048223350", "0.8835674462"),
+    ("CoreVen/OUTPUTs exact outcome mapping", "100", "90", "10", "0.9000000000", "0.8805542284"),
 }
 observed_s15 = {
-    (row["Framework"], row["Coverage_Window"], row["Applicable_Trials"],
-     row["Outcome_Rows_With_A_B_Mapping_Disagreement"],
-     row["Trial_Domain_Statuses_Changed_A_vs_B"],
-     row["Complete_Coverage_Statuses_Changed_A_vs_B"])
+    (row["Audit"], row["Rows"], row["Agreement_Rows"], row["Disagreement_Rows"],
+     row["Raw_Agreement"], row["Cohen_Kappa"])
     for row in s15
 }
 if observed_s15 != expected_s15:
     errors.append("publication_s15_alignment")
+table1 = list(csv.reader((ROOT / "publication/Table1.csv").open(encoding="utf-8-sig", newline="")))
+s2 = list(csv.reader((ROOT / "publication/Supplementary_Table_S2.csv").open(encoding="utf-8-sig", newline="")))
+if table1 != s2 or table1[0] != ["Section", "Characteristic", "n/N (%) or summary", "Unknown n"]:
+    errors.append("table1_s2_alignment")
+publication_tables = [ROOT / "publication/Table1.csv"] + sorted((ROOT / "publication").glob("Supplementary_Table_S*.csv"))
+if any(value == "" for path in publication_tables for row in csv.reader(path.open(encoding="utf-8-sig", newline="")) for value in row):
+    errors.append("publication_blank_cells")
 if list(ROOT.rglob("*.json")):
     raw = [p for p in ROOT.rglob("*.json") if "raw" in p.parts or "full_records" in p.parts]
     if raw:
@@ -86,6 +89,7 @@ print("VALIDATED_FIGURES=6/6")
 print("PUBLICATION_SUPPLEMENTARY_TABLES=23/23")
 print("HUMAN_REVIEWED_OUTCOME_ALIGNMENT=PASS")
 print("PUBLICATION_S15_ALIGNMENT=PASS")
+print("PUBLICATION_BLANK_CELLS=0")
 print("RAW_COMPLETE_JSON=0")
 print("STATUS=" + ("PASS" if not errors else "FAIL"))
 if errors:

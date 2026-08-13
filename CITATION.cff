@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: Cite the accompanying manuscript and this software release.
 title: Chronic wound aging registry audit
-version: v1.2.8
+version: v1.2.9
 date-released: 2026-08-13
 url: https://github.com/wang177777/chronic-wound-aging-registry-audit
 repository-code: https://github.com/wang177777/chronic-wound-aging-registry-audit
 identifiers:
   - type: url
-    value: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.8
-    description: Public v1.2.8 release
+    value: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.9
+    description: Public v1.2.9 release
 license: MIT
 authors:
   - family-names: Wang
