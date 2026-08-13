@@ -2,11 +2,11 @@
 
 ## Data availability
 
-ClinicalTrials.gov source records are publicly accessible by NCT identifier. The governed project retains the frozen 1,218-identifier list, source hashes, minimized derived data, the signed original coding, the append-only age-correction ledger, validated tables and provenance records. Complete registry JSON is not redistributed because the reproducibility release is data-minimized. The public repository is https://github.com/wang177777/chronic-wound-aging-registry-audit.
+ClinicalTrials.gov source records are publicly accessible by NCT identifier. The project retains the frozen 1,218-identifier list, source hashes, minimized derived data, signed coding, age-correction ledger, validated tables and provenance records. Data-minimized materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit.
 
 ## Code availability
 
-Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.11 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.11). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
+Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.12 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.12).
 
 ## Author contributions
 
@@ -20,7 +20,7 @@ The authors thank Weiwei Chen for independent verification of the analysis and s
 
 ## Funding
 
-X.Y. discloses support for this work from the Special Program for Clinical and Translational Medical Research of the Chinese Academy of Medical Sciences [grant 2025-12M-C&T-B-067], the National Clinical Key Specialty Construction Project [grant 23003], the Plastic Medicine Research Fund of the Chinese Academy of Medical Sciences [grant 2024-ZX-1-01], and the Special Research Fund for Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College [grant YSZ2024CG007]. C.W. discloses support for this work from the Beijing Natural Science Foundation [grant L256048]. These awards funded only student research-assistant personnel costs. The funders had no other role in study design, data acquisition, analysis, interpretation, manuscript preparation or the decision to submit.
+X.Y. discloses support for this work from the Special Program for Clinical and Translational Medical Research of the Chinese Academy of Medical Sciences [grant 2025-12M-C&T-B-067], the National Clinical Key Specialty Construction Project [grant 23003], the Plastic Medicine Research Fund of the Chinese Academy of Medical Sciences [grant 2024-ZX-1-01], and the Special Research Fund for Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College [grant YSZ2024CG007]. C.W. discloses support for this work from the Beijing Natural Science Foundation [grant L256048]. These awards supported student research-assistant personnel costs. The funders had no role in study design, data acquisition, analysis, interpretation, manuscript preparation or the decision to submit.
 
 ## Competing interests
 
@@ -28,4 +28,4 @@ All authors declare no financial or non-financial competing interests.
 
 ## Ethics statement
 
-This study analyzed only legally obtained, publicly available, non-identifiable aggregate records from ClinicalTrials.gov and published literature. It involved no participant contact, intervention, new participant data collection, individual-level data or identifiable private information and did not constitute human-participant research. Ethics approval and informed consent were not applicable.
+This study used publicly available, non-identifiable aggregate records from ClinicalTrials.gov and published literature and did not involve human participants. Ethics approval and informed consent were not applicable.
