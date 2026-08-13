@@ -35,7 +35,7 @@ state = __import__("json").loads(
 )
 if state.get("current_release_status") != "PUBLIC_RELEASE_VALIDATED":
     errors.append("final_release_validation_state")
-if state.get("release_version") != "v1.2.12" or not state.get("public_release_created"):
+if state.get("release_version") != "v1.2.13" or not state.get("public_release_created"):
     errors.append("public_release_binding_state")
 if not state.get("publication_s15_alignment"):
     errors.append("publication_s15_alignment_state")

@@ -7,9 +7,9 @@ The complete age-corrected analysis was rerun in a fresh detached worktree; 36/3
 The frozen input manifest retains historical source filenames where needed for exact provenance. Those filenames do not indicate the current governance status of the human-confirmed values.
 
 Repository: https://github.com/wang177777/chronic-wound-aging-registry-audit
-Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.12
-Version: v1.2.12
+Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.13
+Version: v1.2.13
 
-## v1.2.12 manuscript language refinement
+## v1.2.13 BMJ Evidence-Based Medicine manuscript alignment
 
-Version v1.2.12 is the current manuscript-aligned public version. It retains the v1.2.11 figure specifications and refines the manuscript, declarations and legends for concise, neutral reporting. Repetitive boundary statements and audit-response phrasing were consolidated while the Methods disclosure of AI assistance and human verification was retained. No publication CSV, analytical input, validated scientific result, figure data or analysis code changed. Earlier versions are superseded but retained for provenance.
+Version v1.2.13 is the current manuscript-aligned public version for submission to BMJ Evidence-Based Medicine. It adds the study design to the title, adopts the journal’s structured abstract and key-message format, shortens the main text, converts references to Vancouver style and aligns the AI, guarantor, patient/public involvement, ethics, funding and transparency statements with BMJ policy. No analytical input, validated scientific result, publication figure data or analysis code changed; the only publication-table change removes an uninformative protocol-attachment row from Table 1 and its identical supplementary copy. Earlier versions are superseded but retained for provenance.

@@ -6,13 +6,21 @@ ClinicalTrials.gov source records are publicly accessible by NCT identifier. The
 
 ## Code availability
 
-Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.12 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.12).
+Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the BMJ Evidence-Based Medicine manuscript-aligned version archived as release v1.2.13 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.13).
 
 ## Author contributions
 
 G.W.: Conceptualization, methodology, formal analysis, investigation, project administration, validation, visualization, writing—original draft, and writing—review and editing. F.H.: Methodology, investigation, validation, writing—original draft, and writing—review and editing. J.J.: Software, data curation, formal analysis, methodology, validation, visualization, and writing—review and editing. K.Z.: Methodology, investigation, literature verification, validation, and writing—review and editing. W.W.: Investigation, data curation, independent validation, and writing—review and editing. C.W.: Investigation, data curation, validation, funding acquisition, and writing—review and editing. H.B.: Methodology, geriatric-construct validation, clinical interpretation, and writing—review and editing. H.L.: Methodology, wound-clinical validation, outcome-framework validation, and writing—review and editing. Z.Q.: Supervision, resources, senior clinical validation, and writing—review and editing. Y.H.: Methodology, supervision, project administration, and writing—review and editing. Y.L.: Methodology, software audit, formal analysis, independent reproducibility validation of the preceding cohort-correction analysis, supervision, visualization, and writing—review and editing. X.Y.: Conceptualization, supervision, resources, funding acquisition, clinical validation, and writing—review and editing.
 
-All authors reviewed and approved the final manuscript and agree to be accountable for their contributions and for the integrity of the work.
+OpenAI Codex was used as described in the manuscript Methods. Guoyong Wang verified the final work and is the guarantor. All authors reviewed and approved the final manuscript and are accountable for their contributions and for the integrity of the work.
+
+## Transparency declaration
+
+The guarantor affirms that the manuscript is an honest, accurate and transparent account of the study; that no important aspects have been omitted; and that additions to the original analysis are identified as such.
+
+## Patient and public involvement
+
+Patients and the public were not involved in the design, conduct, reporting or dissemination planning of this registry-based study.
 
 ## Acknowledgements
 
@@ -24,8 +32,10 @@ X.Y. discloses support for this work from the Special Program for Clinical and T
 
 ## Competing interests
 
-All authors declare no financial or non-financial competing interests.
+None declared.
 
 ## Ethics statement
 
 This study used publicly available, non-identifiable aggregate records from ClinicalTrials.gov and published literature and did not involve human participants. Ethics approval and informed consent were not applicable.
+
+Patient consent for publication was not applicable.
