@@ -14,6 +14,14 @@ def test_scientific_outputs():
 def test_publication_outputs():
     assert (ROOT / "publication/Table1.csv").is_file()
     assert len(list((ROOT / "publication").glob("Supplementary_Table_S*.csv"))) == 23
+
+def test_figure1_flow_arithmetic():
+    data = rows(ROOT / "publication/Figure1_data.csv")
+    counts = {(row["stage"], row["item"]): int(row["count"]) for row in data}
+    assert counts[("full-screening final", "included")] == 1206
+    assert counts[("full-screening final", "excluded")] == 33646
+    assert counts[("reliability sample", "included")] + counts[("full-screening final", "included")] == 1218
+    assert counts[("reliability sample", "excluded")] + counts[("full-screening final", "excluded")] == 33754
 def test_privacy_boundary():
     assert not list(ROOT.rglob("*__v1__lastupdate-*.json"))
     assert not list(ROOT.rglob("*.sqlite"))
@@ -21,7 +29,7 @@ def test_current_release_status():
     import json
     state = json.loads((ROOT / "results/qa/FINAL_RELEASE_VALIDATION_STATE.json").read_text())
     assert state["current_release_status"] == "PUBLIC_RELEASE_VALIDATED"
-    assert state["release_version"] == "v1.2.9"
+    assert state["release_version"] == "v1.2.10"
     assert state["independent_validation_completed"] is True
     assert state["human_reviewed_outcome_table_alignment"] is True
     assert state["public_release_created"] is True

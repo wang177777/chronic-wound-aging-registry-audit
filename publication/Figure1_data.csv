@@ -1,24 +1,20 @@
-Stage,Count,Unit
-AACT_EXACT_QUERY_HIT_ROWS,5693,non-additive query-hit rows
-AACT_BROAD_QUERY_HIT_ROWS,8496,non-additive query-hit rows
-API_CONDITION_QUERY_HIT_ROWS,10765,non-additive query-hit rows
-API_TERM_QUERY_HIT_ROWS,72328,non-additive query-hit rows
-UNIQUE_MACHINE_CANDIDATE_UNION,34972,unique NCT IDs
-EXACT_RETRIEVED_UNION,15438,unique NCT IDs
-BROAD_ONLY_UNION,19534,unique NCT IDs
-HUMAN_CONFIRMED_FINAL_SCREENING,34972,unique NCT IDs
-INITIAL_INCLUDED_BEFORE_FALSE_NEGATIVE_SWEEP,1206,unique NCT IDs
-POST_AUDIT_ADDITIONS,12,unique NCT IDs
-FINAL_INCLUDED,1218,unique NCT IDs
-FINAL_EXCLUDED,33754,unique NCT IDs
-COREVEN_APPLICABLE,304,trial registration records
-OUTPUTS_APPLICABLE,184,trial registration records
-PRESPECIFIED_RELIABILITY_SAMPLE,120,unique NCT IDs
-RELIABILITY_SAMPLE_INCLUDED,12,unique NCT IDs
-RELIABILITY_SAMPLE_EXCLUDED,108,unique NCT IDs
-FULL_SCREENING_COMPONENT,34852,unique NCT IDs
-FULL_SCREENING_COMPONENT_INCLUDED,1194,unique NCT IDs
-FULL_SCREENING_COMPONENT_EXCLUDED,33658,unique NCT IDs
-INITIAL_EXCLUDED,33766,unique NCT IDs
-TARGETED_FALSE_NEGATIVE_SWEEP,33658,unique NCT IDs
-POST_SWEEP_FULL_COMPONENT_EXCLUDED,33646,unique NCT IDs
+stage,item,count
+retrieval,AACT exact hits,5693
+retrieval,AACT broad hits,8496
+retrieval,API condition hits,10765
+retrieval,API term hits,72328
+candidate frame,deduplicated NCT identifiers,34972
+reliability sample,included,12
+reliability sample,excluded,108
+full-screening component,candidates,34852
+full-screening before sweep,included,1194
+full-screening before sweep,excluded,33658
+audit,probability sample,300
+audit,boundary-enriched sample,200
+targeted scan,records scanned by rules,33658
+targeted scan,flagged for human review,915
+targeted scan,eligible records added in total after audit and scan,12
+full-screening final,included,1206
+full-screening final,excluded,33646
+final,included,1218
+final,excluded,33754

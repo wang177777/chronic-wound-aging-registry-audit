@@ -35,12 +35,21 @@ state = __import__("json").loads(
 )
 if state.get("current_release_status") != "PUBLIC_RELEASE_VALIDATED":
     errors.append("final_release_validation_state")
-if state.get("release_version") != "v1.2.9" or not state.get("public_release_created"):
+if state.get("release_version") != "v1.2.10" or not state.get("public_release_created"):
     errors.append("public_release_binding_state")
 if not state.get("publication_s15_alignment"):
     errors.append("publication_s15_alignment_state")
 if not state.get("human_reviewed_outcome_table_alignment"):
     errors.append("outcome_table_alignment_state")
+figure1_rows = list(csv.DictReader((ROOT / "publication/Figure1_data.csv").open(encoding="utf-8-sig", newline="")))
+figure1_counts = {(row["stage"], row["item"]): int(row["count"]) for row in figure1_rows}
+if not (
+    figure1_counts.get(("full-screening final", "included")) == 1206
+    and figure1_counts.get(("full-screening final", "excluded")) == 33646
+    and figure1_counts.get(("reliability sample", "included")) + figure1_counts.get(("full-screening final", "included")) == 1218
+    and figure1_counts.get(("reliability sample", "excluded")) + figure1_counts.get(("full-screening final", "excluded")) == 33754
+):
+    errors.append("figure1_flow_arithmetic")
 figure4 = {}
 for row in csv.DictReader((ROOT / "publication/Figure4_data.csv").open(encoding="utf-8-sig", newline="")):
     if row["Module"] == "REGISTERED_OUTCOME_DOMAIN":
@@ -87,6 +96,7 @@ print("NCT_HASH_MANIFEST=1218/1218")
 print("VALIDATED_TABLES=15/15")
 print("VALIDATED_FIGURES=6/6")
 print("PUBLICATION_SUPPLEMENTARY_TABLES=23/23")
+print("FIGURE1_FLOW_ARITHMETIC=PASS")
 print("HUMAN_REVIEWED_OUTCOME_ALIGNMENT=PASS")
 print("PUBLICATION_S15_ALIGNMENT=PASS")
 print("PUBLICATION_BLANK_CELLS=0")
