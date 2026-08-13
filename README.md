@@ -7,9 +7,9 @@ The complete age-corrected analysis was rerun in a fresh detached worktree; 36/3
 The frozen input manifest retains historical source filenames where needed for exact provenance. Those filenames do not indicate the current governance status of the human-confirmed values.
 
 Repository: https://github.com/wang177777/chronic-wound-aging-registry-audit
-Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.10
-Version: v1.2.10
+Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.11
+Version: v1.2.11
 
-## v1.2.10 Figure 1 flow-logic refinement
+## v1.2.11 publication-figure specification alignment
 
-Version v1.2.10 is the current manuscript-aligned public version. It retains the v1.2.9 publication-table corrections and refines Figure 1 so the reliability and full-screening components merge explicitly, the audit and rule-based scan form one sequential path, and the final arithmetic is shown without double-counting ambiguity. Figure 1 source data now include the derived final full-screening counts (1,206 included and 33,646 excluded). No analytical input, validated scientific result or analysis code changed. Earlier versions are superseded but retained for provenance.
+Version v1.2.11 is the current manuscript-aligned public version. It retains the v1.2.10 Figure 1 flow logic and records the final journal-figure rendering specifications: 183-mm maximum width, publication-scale typography, 0–100% percentage ticks in Figure 3 with the space beyond 100% reserved only for count annotations, and a 170-mm maximum exported height. The Figure 3 legend is synchronized with the displayed wording. No publication CSV, analytical input, validated scientific result or analysis code changed. Earlier versions are superseded but retained for provenance.

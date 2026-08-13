@@ -168,7 +168,7 @@ ClinicalTrials.gov source records are publicly accessible by NCT identifier. The
 
 ## Code availability
 
-Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.10 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.10). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
+Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.11 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.11). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
 
 ## Author contributions
 
@@ -199,7 +199,7 @@ This study analyzed only legally obtained, publicly available, non-identifiable 
 
 **Figure 2 | Structured and reconciled age accessibility.** **a**, Accessibility at four prespecified chronological ages using structured registry fields and separately reconciled full-eligibility evidence. **b**, Structured maximum-age-field status. Percentages use all 1,218 included records; indeterminate counts were preserved. Protocol eligibility is not evidence of actual enrollment or representation.
 
-**Figure 3 | Public documentation of geriatric context with indeterminate states.** **a**, Eight clinical domains were kept separate and displayed as publicly specified, not publicly specified, or indeterminate after review. Values printed at right are specified n | indeterminate n. **b**, Proxy-consent pathways were reported separately because they describe consent access rather than a clinical geriatric domain. These registry-level fields are neither patient diagnoses nor validated frailty measurements.
+**Figure 3 | Public documentation of geriatric context with indeterminate states.** **a**, Eight clinical domains were kept separate and displayed as publicly specified, not publicly specified, or indeterminate after review. Values printed at right give specified and indeterminate counts. **b**, Proxy-consent pathways were reported separately because they describe consent access rather than a clinical geriatric domain. These registry-level fields are neither patient diagnoses nor validated frailty measurements.
 
 **Figure 4 | Framework-specific registered outcome-domain coverage.** **a**, Primary-registered CoreVen domain coverage in venous-leg-ulcer active-treatment records. **b**, Any-registered CoreVen domain coverage. **c**, Primary-registered OUTPUTs domain coverage in pressure-injury-prevention records. **d**, Any-registered OUTPUTs domain coverage. Bars show confirmed full-denominator proportions. Indeterminate mapping states and denominator-sensitive results are reported in the Supplementary Information.
 
