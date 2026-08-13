@@ -7,9 +7,9 @@ The complete age-corrected analysis was rerun in a fresh detached worktree; 36/3
 The frozen input manifest retains historical source filenames where needed for exact provenance. Those filenames do not indicate the current governance status of the human-confirmed values.
 
 Repository: https://github.com/wang177777/chronic-wound-aging-registry-audit
-Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.7
-Version: v1.2.7
+Release: https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.8
+Version: v1.2.8
 
-## v1.2.7 disclosure and declaration alignment
+## v1.2.8 submission-format alignment
 
-Version v1.2.7 is the current manuscript-aligned public version. It gives a concise, purpose-specific disclosure of initial OpenAI Codex assistance and independent final human rereview, identifies Guoyong Wang as the final verifier, preserves all-author accountability, separates funding from acknowledgements, and uses the journal-standard competing-interests statement. The non-human-participant-research ethics statement is unchanged. No analytical input, scientific result, table, figure source data or analysis code changed. Earlier versions are superseded but retained for provenance.
+Version v1.2.8 is the current manuscript-aligned public version. It retains the concise AI and human-verification disclosure, all-author accountability and non-human-participant-research ethics statement, and formats the separate Funding statement using author-specific disclosure language and bracketed grant identifiers. Figure 1 rendering was regenerated with a safe canvas margin; its source data and scientific content are unchanged. No analytical input, scientific result, table, figure source data or analysis code changed. Earlier versions are superseded but retained for provenance.

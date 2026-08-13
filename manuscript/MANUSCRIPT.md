@@ -168,7 +168,7 @@ ClinicalTrials.gov source records are publicly accessible by NCT identifier. The
 
 ## Code availability
 
-Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.7 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.7). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
+Project code and data-minimized reproducibility materials are available at https://github.com/wang177777/chronic-wound-aging-registry-audit, with the manuscript-aligned version archived as release v1.2.8 (https://github.com/wang177777/chronic-wound-aging-registry-audit/releases/tag/v1.2.8). Complete registry JSON is not redistributed. No archival DOI was available when this version was prepared.
 
 ## Author contributions
 
@@ -182,7 +182,7 @@ The authors thank Weiwei Chen for independent verification of the analysis and s
 
 ## Funding
 
-Support to X.Y. was provided by the Special Program for Clinical and Translational Medical Research of the Chinese Academy of Medical Sciences (2025-12M-C&T-B-067), the National Clinical Key Specialty Construction Project (23003), the Plastic Medicine Research Fund of the Chinese Academy of Medical Sciences (2024-ZX-1-01), and the Special Research Fund for Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College (YSZ2024CG007); support to C.W. was provided by the Beijing Natural Science Foundation (L256048). These funds were used only for student research-assistant personnel costs. The funders had no other role in study design, data acquisition, analysis, interpretation, manuscript preparation or the decision to submit.
+X.Y. discloses support for this work from the Special Program for Clinical and Translational Medical Research of the Chinese Academy of Medical Sciences [grant 2025-12M-C&T-B-067], the National Clinical Key Specialty Construction Project [grant 23003], the Plastic Medicine Research Fund of the Chinese Academy of Medical Sciences [grant 2024-ZX-1-01], and the Special Research Fund for Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College [grant YSZ2024CG007]. C.W. discloses support for this work from the Beijing Natural Science Foundation [grant L256048]. These awards funded only student research-assistant personnel costs. The funders had no other role in study design, data acquisition, analysis, interpretation, manuscript preparation or the decision to submit.
 
 ## Competing interests
 
